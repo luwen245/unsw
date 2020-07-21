@@ -1,0 +1,2612 @@
+---------------------------------------------------------------
+[ 2020-06-26T17:06:02+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.098106s] [åžåçŽ‡ï¼š10.19req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.90kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002284s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006155s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:06:03+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.051565s] [åžåçŽ‡ï¼š19.39req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002956s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:06:03+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.044214s] [åžåçŽ‡ï¼š22.62req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003181s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:06:03+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.043628s] [åžåçŽ‡ï¼š22.92req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003153s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:06:05+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.050195s] [åžåçŽ‡ï¼š19.92req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003215s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:17+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.052553s] [åžåçŽ‡ï¼š19.03req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003882s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:18+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.056663s] [åžåçŽ‡ï¼š17.65req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002984s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:19+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.044640s] [åžåçŽ‡ï¼š22.40req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002883s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:19+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.038868s] [åžåçŽ‡ï¼š25.73req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002832s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:20+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.038388s] [åžåçŽ‡ï¼š26.05req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002992s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:20+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.040412s] [åžåçŽ‡ï¼š24.75req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003041s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:21+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.038860s] [åžåçŽ‡ï¼š25.73req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002958s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:21+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039997s] [åžåçŽ‡ï¼š25.00req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002955s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:22+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039712s] [åžåçŽ‡ï¼š25.18req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002842s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:23+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.044392s] [åžåçŽ‡ï¼š22.53req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002800s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:23+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.038808s] [åžåçŽ‡ï¼š25.77req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002858s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:24+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039593s] [åžåçŽ‡ï¼š25.26req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002927s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:25+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.040288s] [åžåçŽ‡ï¼š24.82req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002975s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:25+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039886s] [åžåçŽ‡ï¼š25.07req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002887s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:26+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039440s] [åžåçŽ‡ï¼š25.36req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002888s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:26+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.059040s] [åžåçŽ‡ï¼š16.94req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002909s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:27+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039682s] [åžåçŽ‡ï¼š25.20req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002937s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:27+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039843s] [åžåçŽ‡ï¼š25.10req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002792s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:28+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039614s] [åžåçŽ‡ï¼š25.24req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002839s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:29+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039185s] [åžåçŽ‡ï¼š25.52req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002771s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:09:30+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.063415s] [åžåçŽ‡ï¼š15.77req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004293s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:14:26+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.055895s] [åžåçŽ‡ï¼š17.89req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003896s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '502',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'µkÝ©3g>¹C_LÉõ¯xºø™ëy‹"ê›^Ü·tcârY½mÒçÝ¤ŸSn²8H<aßSçr©-äi›²¢ªYQòÓz#ÕUXï~û' . "\0" . '(òS™ü°0_ôPÈ@q­G,ßÙˆ¤q«ÛbÇ®C
+ŒÛL¢|ý“zì:}À[YýL$Äª;TÁúÝ,cà^×Yå§c¾DŠÕ©G’](d dMß',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:14:42+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.066642s] [åžåçŽ‡ï¼š15.01req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003699s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '502',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '¼é>\\*l31ÔtÃ—ƒˆëOëf K:œgÇ×ü;Ñ{‰<EWàOa¾½Ü´Í2CD(	å¤Â5¹iäS÷Ñ5Z^0pêrnŸF"$GœL%²jý',
+  'éÀŸ§¹-¦‚1Hëo¡
+ì2³_{qÅU¸7Ê‹;@A4ÇÞ¾R¿Šû‰ª®' => 'Ij',
+  'ó~*IøT-¢Y¥‡TÈ7yì	¹Škm/°¼ì/@ÙißÙ£î“Z»§|ó£çcýF½á\\R0{åðß¦ƒŽËõò“æÓSèÜ|S^m' => '9Éoè«DÀ†»4Sy±§ÍšøÂ®†)d¼Ãñ_œë‰äÌÐ¬ìm¡	‰ÍXL#÷ÎC–Ñ÷‰Á×ÔÏä	Zç0ZŸ|Í˜«cÆÖ›2*tf]üè¥=­k<ûî9Â×Ë
+ÖÁ¹‹Çz2‰ˆxwn¤°996pAÒ§¯öwIU-ZF¹J«\'/=yÛO²É„g,¯á÷È°Ãêó»’®zÈõJEñ/N³íÔ• $êÐë…bþrfbí(ó•*F Ñ¼]Ÿ25¹Ã±' . "\0" . '‚šò2k%µ ™gžF/ûÀ´Êc×ªí',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:16:57+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.063109s] [åžåçŽ‡ï¼š15.85req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003756s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:16:57+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.041278s] [åžåçŽ‡ï¼š24.23req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002977s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:16:58+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.042073s] [åžåçŽ‡ï¼š23.77req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003086s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:17:40+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.048827s] [åžåçŽ‡ï¼š20.48req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.74kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003200s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '406',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '7Á;ÕÂ3\'(ñ®â¦þŒýïÎwM3·m¦°¾‡ 1=º=²\'‚ªKÕ°œÉ»\\e b´ÐëYÂSz®' . "\0" . 'Q•yàLRÞÓ
+å]2«9' . "\0" . 'NÔ½¾XÊ}Hh—Aì<ò‹Áßá4ù=ûeÁe˜•WÏÆô>c(Ï#R$Ü®óQ¹Çk÷Ò_¨uæÒ}Û_µÓ´Œž˜<ë„ÎŒÑz¶7ñ:(éœÌÒ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:20:50+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.057839s] [åžåçŽ‡ï¼š17.29req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003805s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '406',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'È­¡Æ‚n7Ëû]öF9Ñû¼\\köÍb#¯/á*Í|Ïb=7uu¥¤»/`ÌˆºÉBPäÀ/m¨ÍÉmÜòÂ8ßûDÙïhÐ¯­2j¬;ÝêfWþÁy6”-§' . "\0" . 'â7°c`%§˜‘æÃZƒìV5\'¹ÆŽ_‰û9½Nõò|¡8h%wh6¸S†¨ƒÿ«†¹Pî€ú­ë¶ÛÝ¯ÚãÎG5ÍÕçORa…¡FÑ(´f9·Ûæ qT
+6à½vˆweÆZÿ ƒ²”ÊÎ•ºi6æ$ÐŠšÆ1ì‚¬ñKÍ8ÎC3”±g–ÝÎÎÒŽœ‚Ç',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:15+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.066778s] [åžåçŽ‡ï¼š14.98req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004263s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:16+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.041614s] [åžåçŽ‡ï¼š24.03req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003006s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:24+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.069024s] [åžåçŽ‡ï¼š14.49req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004899s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:36+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.040564s] [åžåçŽ‡ï¼š24.65req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003085s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:37+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039246s] [åžåçŽ‡ï¼š25.48req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003023s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:41+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.048069s] [åžåçŽ‡ï¼š20.80req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003185s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:23:41+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.048782s] [åžåçŽ‡ï¼š20.50req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002878s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T17:56:06+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.061655s] [åžåçŽ‡ï¼š16.22req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003709s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '694',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'âìt' . "\0" . '' . "\0" . '' . "\0" . 'Ú@Ž¨-}Ò·$–!ç}ú—cÅž”×i|ú¹åý¾Ã0IÝx‰„\'A<TÉc/lGd‹ÛJEàeßVµx aƒ*>OõeÖ—Rïp|Èµ„ˆ¼S QVÒ"tþ¿Ó’¥Ò®”©CÃ|ùB]õ%?‘ºšXÀ"\\Ï°Y[ertDÔšÆÌøˆñ}£@C<.]ßz¢JYó›]fÐÖtRø>Š ç¯T:tæJÂ>D±ð,]‰oL',
+  'úea÷zZ8päš_t„Úª#k³älí$3ãE Š¶êé~‰©^Z0JÎs¶5}(NÂã“·0CZ,öÔ>8›4<' => 'ë\'‚›käáµvó²Éb.Õ8ÒS¶ÖvcÖAb%ºˆìJÖÈ61s¢(•9áa¯
+¨í°E•¨–£üK–u×C“{oD»³Hö%¸	' . "\0" . '¾5‡Æ’f\\‡„1):m{C0÷' . "\0" . 'gœ
+]¦Ïd·å0/n8»"f{ç–kµ¼4†àÈðÖÀàÕlVO‘°¶n=5¿ðd\'™ÂÒ‡à‰Ñ=–Ç.Kæu3;‚)‡ƒPñ:fN\'ŒexC{¬w…<pŒ]? ³÷k…Š];RŽ»;ºªX–i‰YÝ$.ŸR^­ÒÂ™mrFQ$#' . "\0" . '«ötŸÚg?¨”½Ú9m_«ª­ÉóÚÞå1×Gñ3QÄ4áÍ€«vëgJEµ›Is·¬û"ö¾~ÓËÉ¼1†=T¸gÚqòÞ}öâ±4kÇ}Çå¦5ª¸–JˆâýTÝ‰Ž”7üWêõ‚…ƒ¶[u¯®–ÅO¿ïi×¼cwsõýŒ±À;ó¢ó;ãâœß˜’³
+',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:54:56+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.062381s] [åžåçŽ‡ï¼š16.03req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005041s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '750',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'rþÙOäaú`Go' => '',
+  'Qª˜¤ÙT‹uræ©¹è' => 'Ô—¼sd%)­mPmÜÙÞ‡óK¡»ØÜ¤‹Ü„ñÆ‡ñl	[Á›¶ÕhÊ”m–(‰E—ï@ ' . "\0" . 'åß ÍIY\'ƒOE–Ÿ#Éµqó¼§§âý\'ÍsvYþ”ÁŽU%(èu4¶Ê{b2ãá5í\\àÐé[TxëS §íŸ†‹”V}M-BŠj’IýíìÕÍX-èÈÿ',
+  'jA¾ž¡ËGj·Ðû]$â
+òÄS«Bjï³×' => '%˜BÈï™5Ð6³LKzÛ¢NÏþ|z2ŒŠx•ÌÈ˜B23«‹¶Òš‹fig	®°˜ùÂh—¢‰¼LNÇŸŒƒÆ¢Û½˜-Ï@zÏ:•gLûõ›)©Í”;ºoUDY|¹ò
+~H*Î¹3»ÚÁ–©h}Êw^‘…²qËAœ‰\'Ð0Ó?1f\'ß¸§aHáCHð' . "\0" . '¡iË$Ù®?ˆ_²iDš$ÉôÉ\'v·ÚäTÁ3®Æzƒl”~Šõ Á«TÜšsäÇPEÓ„;oÊ…ª·w0«NÄÝˆê.z8»Ø^½n„Qåî*I“ðúBY¦æëï ðò' . "\0" . '*õ§3ÙÜÔäÌtµ…z¬¯ö3ÇÈ_JøeZüwMÃ¾m, ÄƒÝéÛ7Ê5YLv¿(¡åvï bøP~Š¤rÂgòWh(]…8õÇø«,q-–²4²Ëñ
+~›ê
+\\o­bßlQ‰(Ó–²ÊH	˜%¶v¤Á‘ŠÞª¸ÙáBMÂZgû@ëÚ2î†X½Å3wþò£¿\'d‰r³\'},ç"ôÁTµl²3Ø5mq~õ×?0Eò[Lì<<{ýà±w  
+wÓ®kLcWÓ˜Íl!Ù½ÖI',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:55:24+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.060157s] [åžåçŽ‡ï¼š16.62req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005554s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '574',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => ']u»‰ÐEJ=ÚyÞ|1—Ž“¢' . "\0" . 'BíikÁQSH(Å\'' . "\0" . 'fW(‹*iK^ˆKiàLõ|Ý#2«4ÝÞ¦E4ÏæêT Kü7UæÁ€ñÐžãc{m ½©ó–Žme©Áæ',
+  'm§OZ¾Pí%õ¥_^SÒqö?»w×îDÊÛ—ÒÔ/ÿ;{´i?ª£®zrW9YÊJÓ<A¥ ¨Û*­ÜKt·ýXëóÒÜˆV%?mînÝ' => ').›èwÝ žØ^#ÓždšËiºè•¨vž #‹08_S¤óÏ5ÅPeˆeiñì¤‘3LAØœ]JY²^•›ÜY	œ:€(ó¥ÃÌ#õ¯5<[' . "\0" . 'ªæ}û8aÊÂK²0×ñ­×ˆo™³3K@Éã»}Õ‹¹áÉ¼\'”‰r‡³Û	¿9Œrîí
+BaÌt|,P§m	ÞóbdRðoû•„£ö¹@†Z] Š—Ú½³Ôõ@ÿŠ«$4ƒü]ßmãÞxU|õJ7Ø¡9kx€|êàýN™€ã÷A,®y/uÎ~4Ò¥ 0Ãw–Þ:‚Œî-â$/SÔYv:çªE¾2ëfrkq”û¶|6¢hm',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:56:06+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047641s] [åžåçŽ‡ï¼š20.99req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004298s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '686',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'îÒB™à×g¼5”°W)<NQu4ÏÔy¼\'­…"4ßC@ú\\@ƒ•SrÏý%hµìMñx{¿æÀ4øÔyaóJ«×b¶,f5Ì™déXÊ;sˆo$}š{èëfoÍÀçÐHØv Åè-ko#úM†ˆ@Ñõ•DeöÙ}_¶-Ù{—už^¾‡ ×:0uhÃÅØ–Ìð;¢›‚|,w]£ºhÓgÁ’Ê’FÔÝw¡LK¿}è#C
+ðéã¼ŽÌËÏ£¾a_8ÿ¼Š—ÏŽÄ|bsQ5GZŒ±,DÝ¿¶;Xm\'Á°¯a„@›ªŸíœóÌekÃ;\\ WveÔ…þ3\\[
+LM˜Ãoæ.¸èË‚léºKV±¼¹,Í˜ÑÚz¼söOù J½0Ç‰-”|Ps×zYµ‡KÅÆ0Œ9R6‰3®ºÓa¦å¦’BtÍ!ÐœÆ¢XkLy×‰ý}ãMm?IÎ[•ëM<ô1é>Lä2„$ìM¦OÞºSçL²È#¡áóDžW[ßñ©­wô#ìe† MÍÎC¯P¬qL¯È~^±E®¡¨ââLÌ€%>‰)Öñ\\…¯NœÁží,«§7†ƒCÅ}Yî' => 'ÏÙ0÷’´Æ©o¯Ø',
+  'L©ÓÄ WôR2znàMíÞ:…H!÷îDŸKòÄH' => 'Ú˜TD	aˆÄ·›P$·fãrºÒ”û¶|6¢hm',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:56:45+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.040357s] [åžåçŽ‡ï¼š24.78req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003276s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '718',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '¥ ªÆ,ðÊ' . "\0" . '' . "\0" . '' . "\0" . '?¡ ÛbÐãàu»7c¥!<\\îÊl6öDãøŸÅÇ1Ðk—rúg¾^Ò–)ñ@zü4L\'§˜¾¥\'qƒDi¼ yx·Öô´³aMvÿ²°áÂ¬*“œz öQÚâÀ³±ÖeŒgRv*/\\~—Š^~du4†ü’ÊJé' . "\0" . ' fßaŠ˜Âìä\'L-¤­KÜR/8ÛR™µú˜Óô¨›uæ*4Ø«³†6ò‘Ÿ"{<o]/o/yO…ëò©L4V–­34’¿QÖjýô{1p–Ì”££9½£4ñåÐïXBZîÏî„QbÌE€èò6¸\'|ÅË
+†Ø~¼j?ñlm>~¡(¸<e÷›bµ2RÓ–cµàMœ¾gŸ¯B÷lAööµ¤ö. jÜákZ9ß',
+  '%ß£9«ZZGˆ™ÔÅ¡LN¯Oy8eþE–Z(L¥¹nÉ€eÀÉã_ïï‰¯¶•çÇÔ–$-ó û¯6_4š_0¦ú@ð«d>ã‘´Ö' => 'dôŽ[³ôDŒôîíh^÷±L¸' . "\0" . '*ƒ–³¥ë¨VÔÏLïßú‘{
+X…µ98¹Q¾åIUgBÚSãØreT´ÑÂ ÛÈQ»‰3®ºÓa¦Mßx™i0!}sUXôËNŒ^¾‘ßl<CšèÌ¤CœÐ Í¢SE¯àÉ¶Hš(O·%b' . "\0" . '‘Û™' . "\0" . 'BôO§',
+  'žVßÑ%aPZ•‹iqu¥™PNn!ÂÈ3µµðPØ|G¡pÄ—º²à' => 
+  array (
+    '¦èÁK' => '',
+  ),
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:57:49+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.064443s] [åžåçŽ‡ï¼š15.52req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006178s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '718',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'qø›òT$à %' . "\0" . '' . "\0" . '' . "\0" . '	‚Ü•bùi‡ØÙ±Ž•Ü\\ÍB«^Ñeoä:08ðC1Ú‘XZ¬ÔaniUtÀ>Ã<Ä
+lèÙÝßûŠH;I{²eKõÐŸOà†
+çîáW´¦pJ±>8>5‡ì-á¼5!«Š×ÂÖÖ¾~wC“ÊòÚ×Qe2ƒÈmìÇå4s×¯ðv÷Ï¾P \\¡' . "\0" . 'ó9-vßŸlKVjvf®m­ÜXwƒ[n?TwjçÊâ',
+  'mƒMáSpøÏ|6¦ÿdÙÞ¯™ •%íŠ¨dŽ„~OÏžÌÀaÿýNTÉí1q‘¦FPá´fòÙ¤êw‡Ï' => 'e¡¦v±4ækã-0“<ú¾I)ÿb]ë
+!UJ%¼@¾pK\\:Ì¦Â½dxÇ[”xBÇH¥f§ùîÝÈ¨ Ÿ¹>Ð\\º$½YUb¥ËG¡£  =ÏYûL;ÿïQ.X.ý5ê´=olÝG]Œû„­þt¶À ÿÍZC=¢ý•’˜þøWfI[Pˆ3ÕG˜¾s¥>¾ÀØ±ÄésnÊfÙËë¼g$ÜzgâH(·þ·Q=¨³B³«iµæ{_ª´ÇÙãC/®c–xÉ—ƒTbv¾¨u\\ƒì¹B',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:58:29+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.059812s] [åžåçŽ‡ï¼š16.72req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004498s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '574',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'Í¸1[Ì¾0²„5 0I¹iY î$¹æ¸!y`…cÌ˜~‡š×ÃÈ(ÉÙ ÀÌsú2¬ý1jÖnyu(b/·H‚v¿' . "\0" . 'µG•WràŒ@@B`Ý2Æ“£ŒÉtÿÁY÷/’  ÔaÓç¥“»ÀŒ(ÒS5ñááBZfØÍšìæµ±­kÃÖú…†¶àø¼lÜ)à…«¬RÊˆòê Ã®‡[¾¢a6v*t˜bÞxê ×pÏqZ‹\':ãE]ªBÍóRGeÖ?Í¨ùôThf*fDÑµë1•‹ÒÑ…ZžÏÞ0I‘Ì iv`;tâõød‘ÂRY–ïNÀ¸†ßD2®•J9òRïš´q¾‡X³›{¼y7\'	DÜÇÁWjÙØ0EÈ¾p™÷*Ú8ö4tºæ<.ùýŒ¸¬T)ó­û\\ÒÿÃ08«3]‰­aó¬Ùf32Cþ<¥	à¨ž$CHõ?Z{ò3–_Møyv‡LËûíx^T©$H;Ï¾¾„WVçç•¨Yß¤[lãKEéd]}è¾S,›Àsˆª•q=br‚øXvA ¿I<Þôµw6¡ê?‹N·å{™‹nº}[™gÒõ__¶0 «¾b’aîz½!¼äñx=œ1ÎTn1ïÇuö($1`ðµ\'›
+…ÿ†Œn§h(ŠýF',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:58:43+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.046972s] [åžåçŽ‡ï¼š21.29req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003147s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '742',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '¿@æì»!{' . "\0" . '' . "\0" . '' . "\0" . '†þV	Ô·¶<—	úã-Ðõ5{\'¯ãD·¹¨ª«B!§’üegTÌ0Ð¢nFc!^¡-Ã=ü7Z›Y»gÂ|
+ZD3Ï^Šu]’¼ âŠK)EÒÛw®e;Ýå.ˆ.}”^ ƒ«róR/úûƒÒ–ˆVÑ¼h6¾#Ø‘HCÜbCQ2…µ¬q@„—É¦ŠiÃ½ø°Âîïl›õâ“³DÞ' . "\0" . 'Nèh>©^Ç’ ¼†L<Õ	ãÂ­lê2²Ì' . "\0" . 'mýƒ5$' . "\0" . 'åÑ›ÈHûƒÐ´Ù¸î…:3‘{Ñw­×u¾LT…	Mœì¯Y³Û1>!›	­uFÚ3Èú~×CÓX=Çs’¹ÔU íýZýK9»' . "\0" . '9ü³ù6µ—¯¬åóš3®µ­CØŸS¸x¥GŒÔó#±"ëE©Ø@kwV3hj©Í-Žþs·§ Ø•)G’Ý;x–%q²sœá÷B®Ä„1c»—Ÿìpµ7?m´áËTn3<–¯eÔ¦“þrºis$ÿZä­eI5¶Ê\'’^ÈmÀŠŠ
+ÉË¸5Ýú',
+  'Ãu{²' => '…g2”¾<XâlÃÕ@×#O]º¯èW\\`-Mw.ì¥€¼ö\\
+4ù¨Æ	›æW‡œ•<."éÚÞ­˜°µªÔØ²>›S8Møíüü7ï
+Ø5Jgì»K¥X5mˆ^¶èMy„~/R\'±\'ŽáTÄc8(GµôîûÔìAY
+Ô±',
+  '`Ì4ÌýÆJà“zo8©ÒåTÂˆÜ0wŠ´ÿOÐ\'gÛ×èe/ÙAk#N§ì¹œ_
+æ½U$L^Ð—o®Ç' => 'zÓü%3Þ eù†ˆ1l ¼ŽàWˆSrd^›Àf',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T19:59:07+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.042421s] [åžåçŽ‡ï¼š23.57req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002885s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '598',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'Mw°Áƒ¼¸€W_Ým‡E3…`­H\'“œ\\ÁÚ!Ä' => '#³= Ð|%Mù¨¯7s6jþDÇâ=â0!‹qh¶1âbŒWmò›(Ëžðn°’[§çÅ#O9Él„“­Øj¨ÑU¸¾…—m(<ß³ê\\ŸmK@, Ò¼rËFç\'Š MŸÿ½Ã<àó•< Šáâ)Q\'ú ¡ÌW©câÂÙöþ[óÑ‹Õ„è' . "\0" . 'Ê0ìÖ¯5¥9ãcƒ',
+  '´w”äìVÙ•h^úPÚ¾lÒÊK¼ÊžS{¸%—ÙÌ“p##Åë›8¡4ÜÈpm×ÐÝBý˜m_Æè“þS¸¹hÄ€¼ö×Á`5¶ˆ®wÑûºÜyË\\O‰5Úó§_ˆ|Ð—?XÈ‰;
+–9Ò8Ù®´d4_Ÿ’5ï‚Çdµ×Åð5ë÷ž·¹bz"u#%ë˜$!4QÇn³ùì¶R±' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T20:00:57+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.053704s] [åžåçŽ‡ï¼š18.62req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.99kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003790s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '742',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '¦‡' => 
+  array (
+    ';$àÂÒÂè’ý­[' => 'Øi_ÑwÔNÅ6N«¾@²WØ–Så©“EÃC…é¾V~ r|i²í¼(F|eÄñÉLÚ®ì9ýývË(Zâ"z‹ŠjÑó¡’Ù£5·YéôMàô?¸Q^EÿŸ“æø‡¼û›õÝQÁÊ¹^†',
+  ),
+  'G•ìÖ9T,^„2òDm·lŸÁ/
+oÚ$SFTT\\BûOì' => '',
+  '¾\\þäÈ``SæÛ%6MÙ6' => 'ßÔl—-2õ¿Ž9»R §bç÷³¢¸Ÿ~÷±TâVœãäÃ0aådTiÃf¨„ÃLTEÜ	Š—y,m:žlë8¾U‡äy1àý',
+  'Œ4r_ƒ/`‚Ü1àR8Nï1{±¤(¶"|³‘{þ7j™8_ ¾n' => '',
+  'K§KûGž<ÞŒý' => '',
+  '­46*Ä‘I8ÔÑýŠå­m#å-Žn±^¸7ÚÎcÓ‹%' => '>.fz´ÁZ»r7é#òÃ°³Ð:ó¤tÏšw‚ ITàÈ$Ç|š—íg~ ½’©„Ò/',
+  '¢›Ä' => 'J â·7Zåô_ v<˜D=* {¼âBF%ð ñéåÞXš6ß§Rä9AÿZ…z
+ÝëªâÙÇòð>UÎíGû{ýÅãó×Ñ.Ç%¢ÚR%îÕÀò,`]ØÖ.~òkÀ@=ÈQ¬£ž,·°5°æ®ðï)=¢\'…B8||~LëfÊ,”BÎšúWn¨ŽîË,¤µt§MOJn¦,BœÊ=ì\'®"Ï…Ò–ÿj7qs*Ü¸úK>þ@ñi†N¿ÏÅ{¼ðÜ!\'1žux3¥£¨@î;¿"Ð„§’u©lÛØ”û¶|6¢hm',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T20:06:15+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.057371s] [åžåçŽ‡ï¼š17.43req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.74kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004352s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '694',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'mƒ`¸"n¹à|L' => '',
+  '“ÓiÞ£Ëþwƒg†æñ/¸S%¿µ<Ÿ¾ˆå¯Ö^ò¨üºäƒb¾%€9é|NôEGÐ*‘¸‰SQÅS“–oÆÎÅß_×úg—æU:g“DÂn¿YÞH¨¯agªxŸ‡ïKègàŽo×9€UƒNµ£\'öÝ‰]Èè;óß
+Ûs£fk]¿z_hˆÓä´dÞô}Êì-¶•ª\'½@Áèè•”x*½_©œoˆ³ÉÍ‚µ]É3' => 'm©‰›g‡èÅŒÂ¾Û µ7é)$|ˆÍuBY…Æ•©ÿ°0¢ æí¥^3ßW“4ÐïZŸÜ',
+  'ú' => '',
+  'µ÷åÞª§éZ _zDŸÛ†v-Ò' => 'ã÷§!m¿/v\\øO¥CË¸*ìbÍí™“uŽ¡D[LL0Qä"Ô…|¡pÜP$±‰¾…',
+  '•Õ' => 
+  array (
+    'dÈÔÿ \\ldõ¿Wç`u[Œ™,ƒ)²†ÆåèªÛÅì\\¤øN€uVQt×KÚ5kîÏ_Öu­ˆÄ‹2»_‘¶‰iAB¤ÑXóqX0É­”vÓùæÛ˜\'Êì¨wEˆêœz£' => '',
+  ),
+  'ju¨Æ_Œ¹K`Sù¸…OÛ°ôÂXG' => '',
+  'µŸ4¼ÖÜ`åÚq5Îrýá-ÜA(ŽIÇÓ)\'²ìÆû|¿¬ßµ' => '#38´:âÌ·þ»Œg/e•¥HsRyTx“yÐþ©ÍŠðôÿ$µÏkÌ$ËÎ¥õ¿‹h–$ù·ëN–ˆ7¢t{œ‰z¸³RŒŸ‡{
+òa±$3ƒ‰s' . "\0" . '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T21:32:23+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058234s] [åžåçŽ‡ï¼š17.17req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005019s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '638',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'ko{¬\\€cfJ~µb' => '1[65ÁW¯ö{çüÑu„#mzÊäÚ° »
+GËbF,§ÿë²çÿ]Ë¹6f²NàaG ÅN2ÌoD†à´$?—GE¥ÑÎÎä:ªhÉäÔ"*v|' . "\0" . ' jSþÌF' . "\0" . 'ç’Ö¦…nÞÚÚ Wññ¿>ä0h¶É‹¶A¶‰`Ý^
+ªÇQã
+°Hü?mö)ÌkµåÚ0s\\Dø»ú÷´BF±!§<' . "\0" . 'Ÿ2”?8Ôùæ,ø¾êë¡B†Ž×’15­Mºx›žÕ¶0Ó™möÈÕÊ¹c$ú,Gù¿ìÓtgÇ§B¤šÕnéìy­\\OYW“äuÆëø.Þ3',
+  'Ÿ^—"âî"ô‚•Tý’×	^¶§‡xmàÑ\'¿wÛL¤°o™UÅÂ‰¡ú–“' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:12:27+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.075086s] [åžåçŽ‡ï¼š13.32req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004371s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:12:27+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.061329s] [åžåçŽ‡ï¼š16.31req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000046s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006939s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:12:27+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.047022s] [åžåçŽ‡ï¼š21.27req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002743s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:12:30+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.043031s] [åžåçŽ‡ï¼š23.24req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003476s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:12:31+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.039907s] [åžåçŽ‡ï¼š25.06req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002998s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:33+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.057374s] [åžåçŽ‡ï¼š17.43req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004298s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:34+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.042770s] [åžåçŽ‡ï¼š23.38req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003020s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:36+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.041892s] [åžåçŽ‡ï¼š23.87req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002983s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:36+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.040314s] [åžåçŽ‡ï¼š24.81req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002980s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:37+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.042449s] [åžåçŽ‡ï¼š23.56req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003262s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:38+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.040944s] [åžåçŽ‡ï¼š24.42req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003038s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:46+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.066513s] [åžåçŽ‡ï¼š15.03req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004854s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '342',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'STˆ|?ãFÏH;@ÉåÅ1³ë¯PÚ¸' => '9¶¸G\'18YÇ£3íMÿ¢Ks–¡´_`BŒ',
+  '¿N2h:WÔìåöÉ‰Õ{áÂX9km/ù]ˆ¦Iç_cÀ5¬1ÒpžèÂÊ“ž9ôÍükðS„Ýl²jŽÌÁ6^' => 
+  array (
+    '@¿Ž' => 'Ì^ú;ÖN$°k™Eu¨ŽÓ³3[’`8âØwûpsP¯ÃršWÐÀLgðš†',
+  ),
+  'ž1-Óó·Ì' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:52+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.043129s] [åžåçŽ‡ï¼š23.19req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.87kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002883s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '374',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'g’±y§ÌîHõ–@5Øì¦' => '€O3F£fò •7÷WwWÐ	ÖµGU¿e÷ÿ×µ§”ÃlOy‘¬K¨íÓÝQ¬Î#«õW´ùúäÃ¡Õ*HAgþ—l ö©ÖLcû/ûø¶ŸœTò`„“öÀRÅ(¼eÓöE	6{# Àò0ØMé	ÉÙ\'›¯š:Ü¨í\\z>ýþ¾ÎÐV±¿ÔaôQQž,ûIjÀKÓÖLàú
+i~—†oq',
+  'º—b$_µ{J÷x8ÕJËIÛM!9%nWßwÓó›1/2çjBJ÷iÇ¦eÕ‚Í_’È)‚ØÛšÄd›·Ï/ÕÎXÍ' => '1ÀyÇ7ÈßãµõU(‚öb•',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:15:57+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.043648s] [åžåçŽ‡ï¼š22.91req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.99kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003221s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '366',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '!^w»¯¸Åâ`2æIo¯]gö¹ü¯‘Úy’°]ûµêI½_9ë†¡@“"!3(ÂQ­<˜X£Pv,ÂÝ:_íwçåm´zóD`Œ|÷äºY±lô¼šÝÈ~÷ÎúŒHµØÜ¯NÓä‚A»W(*' => '',
+  'ðÕh¦¦9ž5"3ø¼_ù2Æ™vtÕœ*pf	Jßõácne-ÅlV6¦å6Ä„vC„õwgPJôÕŒ­!_¨TiÖ(}€IçªÍ' => 'Bæ¸ÓWÔ@T¤ž”¿¡IÒVdØoôQ/›…ºžÜ.gGÓ®ÜMf<ðLu_ÞÏ8²JƒŽÞÿ¥¬6›¦\'ñbË¸Ü[t[úúƒ˜' . "\0" . '5LáÕ¼§xIw%•?œ  aìž2?$o©»)òçEÑpŽ°ÃçÓÏ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:16:02+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047523s] [åžåçŽ‡ï¼š21.04req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.74kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003210s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '374',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  ':“_Ülq_•*V4ã|Ûí*šjË,7éŽ)oá,ëDO' => '<3µ½p49oqO’o³÷YÒü-9im‹s“Â ³ùJ Hÿ\'"o$½¨ƒ÷T§"Q¥‡E*|rövÃÅ(xwƒz>:ü,û<)I¶×ˆÞÝ_´H$±¸ŒÌå‘ý¿Ñ°Óu<°“Â°]Þòu¹xEµòÞ“æoßLsm¦ ä½oþÇHbœ |ÒaŒF¶SZt-àÉ*… ¬Å.]¯
+ž‚%¬ªÏ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:16:04+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.039108s] [åžåçŽ‡ï¼š25.57req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.87kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002749s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '374',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'çF¢#¹ìûáÊœÊ>8"iD' => '',
+  '­—1' => '',
+  'h¨™5QQN³Œzp¥{;:\'}¾ïINž' => '',
+  '6ü·,_E÷—´V‘7¯fþØh©á¾S4<' => '',
+  '	ÄÄ}HÄ' => '²òí]bÇ17®uò½ÕÊ6K‰÷9iª$k^ƒUŽ‡ï?üwõ4
+–¥ö37€Ó!y2¶Å4' . "\0" . '|
+Â_\\®8àaEÊÎCä;zî Cm#![ñlÔ€qTJäC²šå4ÊQ½ª"|>þV›ÓÂPš}hOd:}XªO~|3äóLÁ›àDwçÓ¤‘ñqØçLkG´×š
+˜Z®›',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:28:08+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.061988s] [åžåçŽ‡ï¼š16.13req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003722s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T22:33:07+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.056228s] [åžåçŽ‡ï¼š17.78req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004759s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '582',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ªD×§L©	BŽy²\\Ï òæÎ}xUqETaøÐPôtþÕÍO•È-nÀ!îÃ@<vœ,Ý|˜ËòygÉÛjàAÊ½½\'ÿ\\`M`ñäŒ}1õqkÍMþPƒ õpGyßka¸­òoã•\'‘Ñ',
+  '9b¥÷RéjŒ_Þj™ßÖuŠÇ‰Ê²¸ºÙga÷ÇË¦ï×ùŒ(%|êdST¦ÁØy#ô{.	aÑ¤5ÔA—œWlZjâžPAú–7óÛ7·´ßá9ÁdÆ6À>Uå—ûy¸ú1R™;zb1f…b
+šiÂt‡xÈÑ³VÀš?Pu' => '',
+  'aOÔxà`úKH®_~/Ïúv<j‚_:ÍHwš‹É¼Û§§ƒ@‰¤¶?¶!¦±áÜ‚²‘˜r<_9Ùÿè™ï1S‘GY1õÎèqÓ€ÅA1NÎô6äù8tKù±¢RëÝ3wª•vëó,ò«­1u^¾
+5OE1V·_' => 'x„Áfâ#Yû{9•Ã´l»PQê“%\\0ALîÎÕ~káIë¶03ŒZØIé;Ý¿°â¬à=ƒí%¤‚jÁ× Z1ž ºtiòLšŸ\\)€‚Rp”!º
+/’”W¯',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:14:15+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.059608s] [åžåçŽ‡ï¼š16.78req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000080s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003786s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '614',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '"gÉÅSiÊu/Ñb_Žšnó@ò¹2‹_¹£>Ÿµ¥¼!úD7_!0iÊ­wáHgm“Ê!ƒªÎ·¶ aqÃÑ˜	<ýNG}rÃiYÌ@aí' => 'JûYÅ
+šo;aü~¡[Ûª¢§Ô€N‘}#ögg<È‰`õÒM^î}Ïå±.ÈP¨ûâÌ}‹Iåœ³Ù‹wÐm ½n',
+  '<ü_t°‘Ž±:9Aaû”!">)õ~ƒ»@qæŠvÿY…µZ›úº‚·ÐtõŸ†$§Í¹`7¼YÃwA]Êë_7UþTº_ÎqyB8ÕaËZçI|ÚÜmíØnH L2ØöaÕR0•v}Zëå Sª‚ðI2þKKP-¥°_³#xúºÛ,õŸdX…\'©²W—˜ÜÈlÞÒ¡wóøªÔõ£RÎ«ð[0»»œIOÑ»4‹ž¤Hüˆj£ñ|(±Œ0;¨›è8ß6fW†ý$Î2YðÍxªYN€}ƒá‚¢.SÖ:ÜE/úïæ¶à3šZÏ¤CÅºù3”TGF¶€*mAQOêéG4©ŸÀ60·¡¼öõM9…Á•–…0{U†ÇTËˆ‡Ôf^ÑÁÕ\'â' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:14:28+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.056420s] [åžåçŽ‡ï¼š17.72req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.18kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003784s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '486',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '½}B~dGWþ©
+ø«Øi—|ÀG~üP˜J1H÷ªÃkÝ,' . "\0" . 'ÿÈtaÛ]‡¸¬`?ê:¤øÞ µ†h<ì8ÃgŒ­¸Ú)õ³`<k¿£;®­lùoÈ°2äïÚuhƒÐ¹ò‰ Dä¶´UÈÀ¹†àÎç€rI¶çÛ¥M´ZÄŠ›I>7ê‡¶ÆÃ}	a°EÖÁ#áÚ,¡
+¿‹i×rá8Ü¥›–4’>Ôžžƒ¡¤oC’êX@7»ÂÈ(zk´Ä4«PÆ)¦¹5üWãõi‘µý,SP²Dµ!Ó]\\g.n2,LzÝƒ¾hêŒ|QÿÀ0x0þº¡šòµ¡øÇh­€`ÄR3 øýwfØ“ÚyOLôèß—ÇQ^’ŒIxìLçèabægJrÖ6ÏÏT‹àÊù·Ï\\–ú›nìkÀ™*HÁŒ£Îb3©N£¨÷³FÇ(„H›Ã|4žÚ=¸³</@àÙž„îÏÇ$WM‘D§Yû3‹c`Œ¹£H†×Ô*©Ùœd½Hì~@-',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:14:33+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.048222s] [åžåçŽ‡ï¼š20.74req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.43kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003457s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '638',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'µ(’P“	ñUø
+‚#~˜:K±æfïéíR,²	È¢¦Å¸5ðœÑqë/üc²=[ÅóÁ0ç·¯kyê„Éž²à¼qS¸‹P9=ö8x B§xaÉúÝ¬iŽ¦_ÇíÂNÄ!‡x4}Ô¨.Œ¯ƒy£
+›’t‹7°nd×5…Ý®R‚!Z’F³b¼ «Ý‚ÖÐ¿Ê§ÅçÁ°5ÌÆàÄ®æž´…nç(hæ^Ø/k‰"ÑÔäD(ÝI)öß{§…¨{˜ýº­œ<ÒŽÒBì“¡qd‘AÔÀµ…ÙkæH.$b³†Ã0áxe',
+  '†àtÓÐÀÈÁ/tþüÁ¹ø]§0V‡ƒìHö1?£2ÒðSvv¨zà±qJ±À6ÇQ?³„Gdî…ïá|é²Ó‘l!E<•ÀZ5	ëK(Ýwú;¥KºÑ3íô*iÑÓ‚¹¥~— FÃ“ŽÎ@ºª1…_	2§yþ-Û¢_Ìrø4ò' => 'tË¥×‚Ã9A¢S³å',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:14+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.083507s] [åžåçŽ‡ï¼š11.98req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002579s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004920s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:15+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.043180s] [åžåçŽ‡ï¼š23.16req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003233s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:15+08:00 ] 127.0.0.1 GET localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.041803s] [åžåçŽ‡ï¼š23.92req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003032s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:21+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.050257s] [åžåçŽ‡ï¼š19.90req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002864s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:22+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.062540s] [åžåçŽ‡ï¼š15.99req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002800s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:44:23+08:00 ] 127.0.0.1 GET www.localhost/favicon.ico
+[è¿è¡Œæ—¶é—´ï¼š0.051283s] [åžåçŽ‡ï¼š19.50req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.91kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000102s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003629s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'none',
+  'connection' => 'keep-alive',
+  'host' => 'www.localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:47:39+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058360s] [åžåçŽ‡ï¼š17.14req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.87kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000043s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005951s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '390',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'ï' => '',
+  'Â3Å§bÄìrhaœßTæP%\\Uyòð²……zþùà' => '`RÕ½WZÒÉÝ²Þ^É6·ê¦½N',
+  '_Nì4Æp!r"÷£ºÛH»½ýô‘KÃ$~ƒ¶þÝSÈQµÖ›dÌ}ßWéì“2d28˜”Ùº®@þ»¹Ó‹„´$þƒÉM:›MþoxáÎ›¬ê^l³…´†S;Œ"/<øî1KDÑ¦)Ï¸t_¿™Ãê8‘Ê8o¶ƒü¸h†íË?.ë‡}M½%qé¯uz`Òœ¦ä¨ÀòžVÀ‰9OoÝ\\r' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:47:42+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.077175s] [åžåçŽ‡ï¼š12.96req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.99kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004106s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '382',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '@ÿì×©Q‘Ô±LýmÀ²ÜJöš8fÉš©‰¯‘L¥‘šDÁáÅFÁä¦Ä®þÅš‡bªÀÔTÙ›Fê!àÿ~e»˜=ŠX\'ÚS¹‰¢ñ¼¡\'‰7à€ºsòd\'·š°1I4¸\'Ã>‡õy£®2\\Ž};å‚XÕ¼ˆèfÆ{„jüiùvùs»ÖG$bì{l$ @ÿ».yR¹Ó9ž™kÁ”‰ºŠm^i¸ à\\E®Ð²À)Ý¦/œ á?Ô Ó×D¦}"ÆOœ,Íu,Ã2äBŸ²[{NG³ÕÖ3•@C3¾™[ƒe"àŸn²¤Ã¾^Ðº¢Æ¦Ä¥”‹¢vª•†ŸÏªIe=SVøQ–ËC9‚`ï÷t©Â¦Ý04Âe!FÖªFxÁ»Ð' . "\0" . 'Î9u%P/už -ÞáÜÛ×ËËúJ­šFj4N:0øÜÇWÌ)}',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:47:44+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.039885s] [åžåçŽ‡ï¼š25.07req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.12kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002874s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '382',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '\'è $ÌYÑd«¨D`Hƒ¨èD÷T“™×g$XèØ',
+  'eM‚gg…ßàÑ·}' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-26T23:57:54+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.081009s] [åžåçŽ‡ï¼š12.34req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000255s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005479s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '470',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  ',ßl–o•âwª¿"ü’‡SdsÎƒäç)V®£”$üƒIê|nÃª½' => 
+  array (
+    'jÕfÓÿó \\hÛ<8ymˆßl°:' => '',
+  ),
+  'þ;›Å¡±µ' => '',
+  'É»ññÄ\'Oµ?	ŒPJý½½iËŒÎ¿ y6*Zg®«óë	÷Uû_¹ØñC6øw!7LEÈjüùotät>ájøk•ù~5êöyÚž9ab—ûÇ/aÙ«#,ò‹®u¥îòYÐbmvh<Í6' => 'M	òÒ¬Á³\\°åÛß†±hÚ[e' . "\0" . 'èì' . "\0" . 'D å,­®?Žw?#õT9U°Äïª5’Úð(ÿ$Ú?9ðp’‡pþÝœß®Ö½—_\'ápŸÄ<hŠ',
+  0 => '',
+)
+[ info ] [ LOG ] INIT File

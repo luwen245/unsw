@@ -1,0 +1,2925 @@
+---------------------------------------------------------------
+[ 2020-06-27T22:46:35+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category/add?dialog=1
+[è¿è¡Œæ—¶é—´ï¼š0.076416s] [åžåçŽ‡ï¼š13.09req/s] [å†…å­˜æ¶ˆè€—ï¼š4,044.27kb] [æ–‡ä»¶åŠ è½½ï¼š134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002828s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=70',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001520s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\code\unsw\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\category\add.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'cates',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000329s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:35+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=category&v=1593269195
+[è¿è¡Œæ—¶é—´ï¼š0.077979s] [åžåçŽ‡ï¼š12.82req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002766s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=70',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category/add?dialog=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'v' => '1593269195',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001378s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000320s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category?ref=addtabs
+[è¿è¡Œæ—¶é—´ï¼š0.073036s] [åžåçŽ‡ï¼š13.69req/s] [å†…å­˜æ¶ˆè€—ï¼š3,548.70kb] [æ–‡ä»¶åŠ è½½ï¼š129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002838s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=70',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/language?ref=addtabs',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001379s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000406s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/index/index
+[è¿è¡Œæ—¶é—´ï¼š0.103193s] [åžåçŽ‡ï¼š9.69req/s] [å†…å­˜æ¶ˆè€—ï¼š4,122.22kb] [æ–‡ä»¶åŠ è½½ï¼š143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002767s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=70',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/language?ref=addtabs',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001381s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\code\unsw\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000326s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/dashboard?addtabs=1
+[è¿è¡Œæ—¶é—´ï¼š0.091972s] [åžåçŽ‡ï¼š10.87req/s] [å†…å­˜æ¶ˆè€—ï¼š3,930.88kb] [æ–‡ä»¶åŠ è½½ï¼š132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004023s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001439s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ D:\code\unsw\application\admin\controller\Dashboard.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000240s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category?addtabs=1
+[è¿è¡Œæ—¶é—´ï¼š0.112466s] [åžåçŽ‡ï¼š8.89req/s] [å†…å­˜æ¶ˆè€—ï¼š3,877.49kb] [æ–‡ä»¶åŠ è½½ï¼š132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005174s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002034s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\code\unsw\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\category\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000398s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=index&v=1593269210
+[è¿è¡Œæ—¶é—´ï¼š0.063757s] [åžåçŽ‡ï¼š15.68req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.67kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002996s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1593269210',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001412s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000236s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=dashboard&v=1593269210
+[è¿è¡Œæ—¶é—´ï¼š0.069515s] [åžåçŽ‡ï¼š14.39req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002820s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/dashboard?addtabs=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'v' => '1593269210',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002089s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000308s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:50+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=category&v=1593269210
+[è¿è¡Œæ—¶é—´ï¼š0.079012s] [åžåçŽ‡ï¼š12.66req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004103s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'v' => '1593269210',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002151s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000314s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:51+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category/index?addtabs=1&sort=weigh&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1593269210831
+[è¿è¡Œæ—¶é—´ï¼š0.088396s] [åžåçŽ‡ï¼š11.31req/s] [å†…å­˜æ¶ˆè€—ï¼š3,920.50kb] [æ–‡ä»¶åŠ è½½ï¼š134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002756s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+  'sort' => 'weigh',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1593269210831',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001389s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\code\unsw\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000342s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:51+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category/add?dialog=1
+[è¿è¡Œæ—¶é—´ï¼š0.073543s] [åžåçŽ‡ï¼š13.60req/s] [å†…å­˜æ¶ˆè€—ï¼š4,044.34kb] [æ–‡ä»¶åŠ è½½ï¼š134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002780s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001383s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\code\unsw\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\category\add.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'cates',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000298s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:46:52+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=category&v=1593269211
+[è¿è¡Œæ—¶é—´ï¼š0.078505s] [åžåçŽ‡ï¼š12.74req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002670s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category/add?dialog=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'v' => '1593269211',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001551s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000326s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:48:57+08:00 ] 127.0.0.1 POST localhost:8005/admin.php/parent/index
+[è¿è¡Œæ—¶é—´ï¼š0.053253s] [åžåçŽ‡ï¼š18.78req/s] [å†…å­˜æ¶ˆè€—ï¼š2,217.02kb] [æ–‡ä»¶åŠ è½½ï¼š112]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003394s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'parent',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category/add?dialog=1',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost:8005',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '171',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'name',
+  ),
+  'name' => '',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001819s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:48:58+08:00 ] 127.0.0.1 POST localhost:8005/admin.php/parent/index
+[è¿è¡Œæ—¶é—´ï¼š0.054647s] [åžåçŽ‡ï¼š18.30req/s] [å†…å­˜æ¶ˆè€—ï¼š2,217.02kb] [æ–‡ä»¶åŠ è½½ï¼š112]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003477s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'parent',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category/add?dialog=1',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://localhost:8005',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '171',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+)
+[ info ] [ PARAM ] array (
+  'q_word' => 
+  array (
+    0 => '',
+  ),
+  'pageNumber' => '1',
+  'pageSize' => '10',
+  'andOr' => 'AND',
+  'orderBy' => 
+  array (
+    0 => 
+    array (
+      0 => 'name',
+      1 => 'ASC',
+    ),
+  ),
+  'searchTable' => 'tbl',
+  'showField' => 'name',
+  'keyField' => 'id',
+  'searchField' => 
+  array (
+    0 => 'name',
+  ),
+  'name' => '',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001645s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:15+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category?ref=addtabs
+[è¿è¡Œæ—¶é—´ï¼š0.068842s] [åžåçŽ‡ï¼š14.53req/s] [å†…å­˜æ¶ˆè€—ï¼š3,548.70kb] [æ–‡ä»¶åŠ è½½ï¼š129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003473s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/language?ref=addtabs',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001817s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000409s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:15+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/index/index
+[è¿è¡Œæ—¶é—´ï¼š0.118021s] [åžåçŽ‡ï¼š8.47req/s] [å†…å­˜æ¶ˆè€—ï¼š4,122.22kb] [æ–‡ä»¶åŠ è½½ï¼š143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003611s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=71',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/language?ref=addtabs',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-user' => '?1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001697s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\code\unsw\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\index\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000378s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/dashboard?addtabs=1
+[è¿è¡Œæ—¶é—´ï¼š0.087058s] [åžåçŽ‡ï¼š11.49req/s] [å†…å­˜æ¶ˆè€—ï¼š3,930.88kb] [æ–‡ä»¶åŠ è½½ï¼š132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003281s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001711s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ D:\code\unsw\application\admin\controller\Dashboard.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\dashboard\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000378s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category?addtabs=1
+[è¿è¡Œæ—¶é—´ï¼š0.070851s] [åžåçŽ‡ï¼š14.11req/s] [å†…å­˜æ¶ˆè€—ï¼š3,877.49kb] [æ–‡ä»¶åŠ è½½ï¼š132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002846s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001317s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\code\unsw\application\admin\library\traits\Backend.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\category\index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000448s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=index&v=1593269355
+[è¿è¡Œæ—¶é—´ï¼š0.066454s] [åžåçŽ‡ï¼š15.05req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.67kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003609s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/index/index',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1593269355',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001326s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000365s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=dashboard&v=1593269356
+[è¿è¡Œæ—¶é—´ï¼š0.075856s] [åžåçŽ‡ï¼š13.18req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002630s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/dashboard?addtabs=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'v' => '1593269356',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001274s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000286s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=category&v=1593269356
+[è¿è¡Œæ—¶é—´ï¼š0.056807s] [åžåçŽ‡ï¼š17.60req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002535s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'v' => '1593269356',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001336s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000282s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:16+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category/index?addtabs=1&sort=weigh&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1593269356200
+[è¿è¡Œæ—¶é—´ï¼š0.069774s] [åžåçŽ‡ï¼š14.33req/s] [å†…å­˜æ¶ˆè€—ï¼š3,920.50kb] [æ–‡ä»¶åŠ è½½ï¼š134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002540s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-site' => 'same-origin',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+  'sort' => 'weigh',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1593269356200',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001250s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\common\controller\Backend->index[ D:\code\unsw\application\admin\library\traits\Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000260s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:17+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/category/add?dialog=1
+[è¿è¡Œæ—¶é—´ï¼š0.081983s] [åžåçŽ‡ï¼š12.20req/s] [å†…å­˜æ¶ˆè€—ï¼š4,044.72kb] [æ–‡ä»¶åŠ è½½ï¼š134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002766s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category?addtabs=1',
+  'sec-fetch-mode' => 'nested-navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'dialog' => '1',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001678s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\code\unsw\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\code\unsw\public/../application/admin\view\category\add.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'cates',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000308s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T22:49:17+08:00 ] 127.0.0.1 GET localhost:8005/admin.php/ajax/lang?callback=define&controllername=category&v=1593269357
+[è¿è¡Œæ—¶é—´ï¼š0.066345s] [åžåçŽ‡ï¼š15.07req/s] [å†…å­˜æ¶ˆè€—ï¼š3,911.70kb] [æ–‡ä»¶åŠ è½½ï¼š130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002906s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__guid=111872281.1480760921023746000.1593249029188.666; PHPSESSID=mcgff0i892bomnc4mdi4ss0g68; think_var=en; monitor_count=72',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8005/admin.php/category/add?dialog=1',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost:8005',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'category',
+  'v' => '1593269357',
+)
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001465s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\code\unsw\application\admin\controller\Ajax.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000336s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:03+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.085672s] [åžåçŽ‡ï¼š11.67req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000051s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012969s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '590',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'Ûà´Žú½Dq„Å×Œødzé`VèË§Ã#à' => '',
+  '`±ÅÔ0N|]E…1ŒEÇ"íjR1žh¹¢Í7Þ®Ño%øc\\N~\\6±_óßr‹>2o­.žž¶¸\\eM„‘' => 'úÜ‚»\'Å-Rÿ£zeE¡s…†
+@Á¸SÉÀ;	î¬Þ¶Í]Z²\\-ÇÐÐ"²ÑiÓô
+UÃÍ¹/ë"d‘­\\=(k?¨1:¶šÌ¶I¬Jÿ÷]ç·Ë­pÑÇî€(S/÷ðÎ Rh%Rð' . "\0" . '£	¾ÓØåAL¨WªØ/\'4ÜåEî¶ÆWã:›Ø¨ÁUkï¾Íu=Èß=Ã‹©£%t9Vƒ1œLrÐü¬š÷ßä¨À¢Ü^d­T«Q€Sqò›„ÜcBý Ê',
+  'Šà¶¦ÐñBvtaÝª@ŸJ;«Dß°ýÀÞÐ¿Ó–°2áu’¼ÇaE—¼žBÉÂ†' => '­¢ÙßÔK²»Ï@h‘ø¨áÈÑ4
+c©—ÿ æzD{@!ÍKˆÝ˜à3’Xl8Lq9oI)/0T|„4!yÈ!‹ôÔ i1[‡¶T*­*§Ž¾ix¡­ uXýd$ÓÏQ0P¹p•×"YÑL¾ Úc†1”~‹¼áÔÕlÑÔ®@p7H™}jtÖ ìA„…ª®—Â8"rð
+b¤P»±¨îy¡sC™ÁÇå·#©L~Ì¼.[',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:05+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.069068s] [åžåçŽ‡ï¼š14.48req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000109s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003912s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'í¦#‚xj†e	?È;ä:$jžDôXŒàÊãå†w™
+BÚœq±	{>•pË£7™­%ºÌüLŸ5™€Ÿm¯xh¡\'kN<r\'ÉÑVëŽÎ½Æ_G£:áøWXxëfLgÌ¤h{¤ÅèÖ\\…:26í²ü8$¡‘ü¥»Ó)ýÞ¨¼Ú cuƒkwD¯®‹s0
+`èóûJƒÔs,ýÿV^p@hÔ¬°m}¬4ÝaúáãxàÍÍÒ~Œ!r¬Då¦èËG¼Ÿ6”zu†“”NÆl¸,~,Ïª²ºÇôWâ_šÓSÎðÃÌh¸ÜVýˆæ­}d§@Û@0wH±IWW°^Æ¼áœ\\îÜšÐ£Ø± Œ_øF§ª‘9!—¼N(eN$h1tˆ_ÉÕiµEªÛò{_É“ðÕñ$dÁŠI¹#æÑ‘Ð!·zh7Ð<œ_îÉÑË4U"³Pò¤#¼T3_ÃÌÈl˜a¡ªMËóæò$øý¿åZŠžê×®wÝ{KDÒö­¼z´œ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:14+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.053682s] [åžåçŽ‡ï¼š18.63req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000045s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003417s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '478',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'â' . "\0" . 'ÈñŒ¸zÂ¼eV3?°Åy‘@Q’wbi»>\'Íò	{e®€_ºç	¾1Á3^Ãe%¶¯“Îø-¥Ð¤ELGQ|ÛÒû7yÖm<9‘†HÌe-@¥zÍÎ' . "\0" . '?h$¦YYW¶‹” £ÝZùþõeæ¨Ú€âY¢=Q£vñ)\'íí6lŸY' . "\0" . 'Ù•¼|ÿWBp°89€¯~‡…	Ö_¥	XÿíhÕÂ°¦£ïhÜ„$ã€~‘(³:Z/”µtËKL@C
+I/§°:ñÝ%¸^Ú\'\\ºÎûgÄi‰ÖÎÌ>°]þ@',
+  '“™Ú]°¥dËÐ”"vb_õ¢Fu:¿Š‰_ú4q$I¥öi' => '',
+  '‹7ÉzØ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:15+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058364s] [åžåçŽ‡ï¼š17.13req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000139s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007163s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '526',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'È‚8xA,°øt„Š9;!\\6•dBì¿ÚÐ™	ÒéXJß»8' => '',
+  'ð­l²”±æšOl_båìÇÖ$€S²‰Ï~ÞÀÄOùRKPëîhÆ”¬Ñ2>C¤Íššàñƒ*…`*kAv™áúïLivå‡¶þþG·G^ÄiÇ0ç«Lñ^2€
+p' => '',
+  'þ_@C*5Òãëv"Fn‰‚Ù
+‡`EÇ´Ý˜Û¿;#(¼ë{ÎN€“AÒ^Âû¦Gf[Àš½©' => '',
+  'hVsÊ	_24,“¯àÍ†
+¥ôop)µ´‘Ù}EÝP›²gz@Pì_ífúÃQŒ_ž‚uäŠ­ŒŽ‹Nˆø0{S}t' => 'A4HÞÐn!uÿñPÕ­/_¡ý{»®?¾Œ‘2ªOêÑ”ýõø^tóõ{5,\'_„¯“?œµBÂ½é“kP~êWWØ¨ºà½çDíE»âÛhÚgp~2@r?ÑrÇ©²Â?î m>C	$³\\kyz¡
+®g8Ù›ÛV¨RÒ¤ô75, —€ßÝ)[f:âÃo*Öù˜×@¶ëGzÃIo×6IS”É(Tn³:îúÈ9\'“íÞÿZšO2ÀÈ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:29+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058756s] [åžåçŽ‡ï¼š17.02req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003551s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '630',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'n±Ù»–¬nò­:OÅk®Á{xŸ' => '',
+  'Xgmíª/oÿ|äZ|¿' => '~§\'(>S`1b',
+  'À…„n<¾õi½A”‰Ò„øõ)òb¿?2	ÚLÈþ	Cøw;Í¸¦Ò§¶£6qŒÉý}Æ
+_EP†„ìÈ~a¹bÌ¿ÆNÿª‚Gö]øƒm‹ûRKÞ¸àÜ·–›/fUƒv•à#ª@nœìa' => '',
+  'o>¦W;w' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:55+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.037399s] [åžåçŽ‡ï¼š26.74req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003581s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '494',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ƒê;l‹áŽ•>²$Gj•p40€ÒMÞLþ¾¹Ÿ,¬[ª’<W¦a=C‘Ð›¶ôMèÅžôÆ†PùRŒ’öÛ¡ì‰";²-óM' . "\0" . 'õv¬h€Ìnø‹ý:Àe‘TÏm*€™™¸Oß”Ê}ê„!‰âi£û­hI%CŠ×§Ò?J ò
+„Ñ1ÂQ¸Ì¨;Py¬Uíö‡»žÆ¤N_ïÂoœ*ùÒ;÷1öït²"<.tµ5' . "\0" . '¢TŒ¤©ï[¥{Wý\'…ß’É5µaˆ:·,Ã}˜ê\'¬†,ÇñŸAñÒ>Rjß†u¿xô„2fžªMÛDÛo‚»ÏAâÁâí[»T˜séÎÍ‡Æ9{Ô w_—{Á¡Ü^‡P	$õÚÐ±‘t>£€…~èç›\\‰€OdrE',
+  'ý¹­k*5ÞóÜ¥t!_îkï^ÕÂ»‰;aÈ<¿k4v·
+µîÕ€|ÓÎë™WCgTÛlyq\\iÄ¬1<c#Ý;¥…$ìû°OedI*/måX\'Œ<ÛŒUlþ¾àtß
+©1]cS­çÌ‡:²°Y’Fùõ3Ã…ˆbéPàËVWÂÆ†9Ýé' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:25:56+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.041644s] [åžåçŽ‡ï¼š24.01req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003571s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '526',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'y?¯¤,ávKG…¬w¶7"©«yg€ˆ@Ÿê“=£' . "\0" . 'ïÍXI{ÅB_dÓ…P*á,[«4ÝÓ§ZÄ>jô*MeÙ_6ûàž6]÷¦6ˆMmŽð‹â=jQöÆù$Edœ»†%®Žÿg½—à!z©JÓgW«ž¢§Ä4íÕã;\\¡C?e¬8@o©ìÚ®^Ð¡çcãzYmëïéì¨¦‹«¢‹(O|xL4FýÀ/èîï‰‘ˆ”çw”kiuÿÐnVµavp$-¤¯® ºÓ3‰^/dgS²\'™ÿJ¥¸5"±À ã½hè£µå–˜©ÙF÷dF8€2o5aÅ8ût…¯PãÁ(
+`pWŠ“‚ªo˜ÙaÿžÀ«›8$¶4}ÑÛ±ÈÑ`ÃàJ$xÌRäòâÄkíä}Gí…—LFÖýì…?½ÉzºWT!ÍR˜ÑFE•Qr°Ùï]Ž¯n“×E{R' . "\0" . 'heŠT>FÞ?ÓÊsæ$SËÁ¿<.%€qÊ>ªÕÍÓ‚{€€Â£ÆÔh¯)^4G4’lc7l	Uº§_®üé<phÆ¬*	ñgœkc‡%VïÇ®¦Ô*P[œ£=Ê€–¬ŠUÔ7¨qN`\'OrQˆ@ õÄ',
+  '¹Oºád ïl¾;ZŒà' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:26:01+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.037687s] [åžåçŽ‡ï¼š26.53req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.74kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002757s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '382',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'Gº-«)må¯£«³ô\'ŽA!ýQ©çøœ³…#ÆÂtÈÉ†µ¡Ó°Ó|ou´ß…ÃKkeú¦úä’ÖìkóW',
+  'na	4ü`Ÿø÷ý"¤Am0„—þLŽÿ|P×!Mçûö ÞE)!‚ÉÙNv‡/Jø«“ÙÞcóšÆ_!%_ÐÕž-çÇ¶«¿ôãæíö¡G\'A;ò¶ë‡»¸m_›‡¼§\\UÕÒäË¹Èœš' => 'ÉÈ\'Xíõ‡ËŠkuà0ê™Og½Þ<M.¤}¨É`à>[¬¬J‚âê`T',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:26:01+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.039437s] [åžåçŽ‡ï¼š25.36req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.18kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002876s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '534',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => ',»?~ZpÞ:¼žº‰NÄë›©TH‚ònÓ
+`²ˆ/º†Á{Í|ÛÀh¨éÛ¸-»Ò2åh¬µy2g·ë“Ò³‚Pb3Î' . "\0" . 'C Õk8ÔÚý"÷Å³µÎ=æÜ˜“W ¶ÑÙCD$í‹ˆ#ïOóJ„8¯!õ0e¼XÂHö¿(v;þ…¨
+ûBR„“_™*ŸV½MàŒÙ\\ÞA—á }FiwÖé¯Ô²ð3©…~x{ÛÈ
+—BKkÀò0ÃÓ¾™Ï³émMVH•)¢˜v<˜¼ö
+Ý6¯LC
+h@Ã÷oÜ}‘ÂYï„H³÷AC™íbi]Äbœˆº6Æãßþ~^mÀÑ;_ûxÃÊÞ…$ñ¢‹BÕâôhR‹=W©4ú‰×–·3/Æ˜FÑ;äé«Áëùâ!
+ß¬ƒ¹ŽÁ·:‰›q,Û3Y¬÷g"¿N5cÒªdFGHA·†iÝø’Ut',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:26:32+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.042300s] [åžåçŽ‡ï¼š23.64req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.18kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003685s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '486',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '¼>Õ' . "\0" . ']qÊcÿ	á‚NCëÌ›>97Ï	ÌÍïèò]Krñ"¨^U‘°ò¬ ‡é9%6‘Ôl–õXU„DÄ1u·ñœés^Ù#¿’%¥9nPšü6þ"èH’‚<ö×—c–0Úgk†í/ý\\Ejg' . "\0" . '¯g½J¼ØiÓ?Æ€)Ú‘×±àdÝ·¼´a›·Ç¬åá²vl­dÿëa¨·)ÚÇ^Ûÿû‚Èö@Šq¤! Éói1gÙííIê?¡ãÅÈHëˆÅŒAœÑÁpÅ¿¨>w{:šÚÌLcÐ\\¥',
+  'Ê1¥ÏO8’´BÂKÌwá²ä_p‘¦ÃŠRªÅ1ûÝÏõÈÌgìq' => '',
+  'ÇjX™¿ëwÞØH±šÓÃCÍnÚýß¶8µ¦7¬œñ§±×`OF‡Ž!¬ŠÞ?Äï7Bš‘þ ¢uFaÂF•ØñWKÙÉžÞ5«DMþïGÙ‰ÕbŠæe' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:26:33+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.035262s] [åžåçŽ‡ï¼š28.36req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002573s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '518',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'O' => '€ûÒå¬zY³p1X Û|OÑŽ=…ThßR®!ëYÎ[,Ü®‚ª¯ÅÄeîÞÏMKðÄ[Û‘ìO5TØ­@»Ùy)÷%ìJtÓ9˜±M³fÀø–=T!.B\'-l:ñÁÑöIè%mÊ¥_’±½ˆA“òë{6£ìÏdòõŽØ}Ú½»À°)y*5#–N¡¦[.Ä¾Sˆ„±y4 9pªùRÒÊ6keþœ¹ð5mµÈÔnN•v!}ÛQó>¡þï"8Ö@4ÐþèÕGì™bÐäA3¨•íèˆÂ;HÃ˜¬èüáqž"‰¿B‹NžËr†¶¦¨(—¦¤MSŠ0iº4TéiïpÌ?†á£ö½6%¤¹§ñùr˜ísbÞkä ·0Q1A=>Í­„>ìaÜhýŸÚ¨X’ŒùÑ‹w_öOPb®½É’i@TPÛ7[àÉñy™­…Å*‚ŒÄt<fgFoÃÞ¿ãeñèc%Æþª^[',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:26:58+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.038946s] [åžåçŽ‡ï¼š25.68req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002790s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '582',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'pnn5uñ{·aÅ:[XˆÏ÷¥C©´¥þ ‡¬¡ïuþ<•*æ¹¶\'DŽ±‘qÃÀ8§µ­',
+  '»J‡ÝVjgÈ§2}ShÒõæ:ëdb,¶}' => 'þIPMòÄ<8ÆÃNó‹7B§³LB?étý¢”0Íÿ¿a•˜',
+  'Ýnöšã„í_ï*Œ–(bžVJ4eÍp' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:27:36+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.056948s] [åžåçŽ‡ï¼š17.56req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004877s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '~–£ð¾3Yã:ìˆ{\\eþá˜ãìjÃ%9­~¿:…øfî_é|À•½( IÞLƒ»†ì:§Ãíð?5' => '§ƒü¤äMÊÎªK’ÿvÄÏ¨bxN~I$’q5g^Jˆd8´tJ. å=!PìæU®ñð)*¨ìIô‘ÇÙÎãºôŠÑÿMuôéS‡ìñQ[*g·ÔèE³œuAHqWBVÙµÔÝª0©\'­åŽÈ
+³eafÁ¥h$>@ÂÁ†o}š
+YEÑÂÅürfÛ{35û˜A{DÒgåùÕ7š°œ™35
+!Àj5€ÊL$%ãÞÒ†²2O¸6ûoß«=htãÊåÐäÁ#­­šGÀ,CÜ’àöœÃñŒ¼8Òi›Ã*”H©ÈX5Øç*Ò›>}ÄbvzáWnÏtÃâp£Ã#	ã{¥óÏWbôª@FÌ¯f ‚zÌŒ[—ª"]Ýávê4ƒù)„ñY»Ó\\û±™ôñ‚§ßÞZoŒÏ€<Ëç(~…g€‚á.‹Ò
+Ï¯ZÁ8çW¾f jO08?j²Ò-¿c',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:27:40+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.060015s] [åžåçŽ‡ï¼š16.66req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.95kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003424s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '470',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:28:35+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.052688s] [åžåçŽ‡ï¼š18.98req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000085s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003769s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '374',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'OùG\\Y®©X2ëúÜÇ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:28:53+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.049996s] [åžåçŽ‡ï¼š20.00req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003565s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '"¼»e=T­3cåã¦LJÙl»`°¼¹á©©–ö6%`-€‘ÕK^É74 ¸\\Nç×8P@ïz§D6ûmHfšù²Ñ' . "\0" . 'x­¼˜ÊÕ$ÑrÛR÷ÐÝwš¶Y½,˜aZ3_‰{n˜MmG¦9âC@ÂÝlùÅùtí¢sþ§Mhµœ qÇ°ð]|¹ÏÚøƒ Õ#Êûa ìÛû%ÚZÉ;ÕÍ¢öÄ¿ª-•h)Ú‘°Ý]\\ñÏ³V@P‰Æ‘z¸Ÿà´œôðGÿo',
+  ';îì¢ÆEð¿l4ñÜH™¢1›(×J÷UZ9ºzvØ³™èaÓ;¿MB_âÂ©>JÍoläÛ' => '',
+  '§Ðî¿Yþ(@/Ž†dX¼YO:X?k÷„|"ŠeÚ@ê÷h¸µqDE\'Ùso›~ÄWÁ98{~è_$ÁB¯pnQ¤ãj}:/ÊJ‡â-eþøOZÎ8_nÆkµ~H0‡#ÍT/‰^äÙN_rümIƒÝw•ûP@Ç¦
+ŸæXÂ-*…Õ‘ÿ\\Wì|ñP·‘P0¯Ð4V”:RæJà:rO18”' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:28:55+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.044795s] [åžåçŽ‡ï¼š22.32req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003195s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'ì¸•Y³' => 'Ø~Ø »«ô	KIÁÑ¬øŸYzgœré¬/%í¸=t,®‘”§DPµÃËg¬ñ*û*ÿ¦5Í ú©:03Eyv•HZ¼¡ý¤Xoå†kÈšÈ_°^Ç·™QÁ­Ø8Ó3cqPÜôæÈou	MC#¼!Z!\\þCõeŸ¹ÿ|rmDo¿=vfuYsR¢?î¼ÁÙ a%ø1Ó`Ö,ÊÁ[îÇ%¬§ÙJôzoÕùuláE´I!fö÷±º9àa-Ú^~Lj6ðÜ}¨!ÿ£è',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:29:02+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.045272s] [åžåçŽ‡ï¼š22.09req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.43kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000050s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003095s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '446',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '1—,£z€„Ö$ª%»SòF¼à­%•9±ö)‚7!éO¶ùwÆSèÍºMòÎ:söÇ2Ì‰DØ<ñ•Ò\\' => 'ì>‰ª	 DÑzäšà)N;P6	WJz{ãÂè®üÃ,€­˜Ý<öHÊÅ©ÆP' . "\0" . 'Â½¿­ýuy}-†"ÿåSpAì¤*ÆT‡ì ¬ûðð7š„Ì¡˜#Oü×â{]yY‰Q"$@Çg•¾ÕãÄÆ•úL™jõMfóM|MívÍàÈp,ZWÙx%ÿaƒ¿Ìœë·I’A§0á Ì"“5-^TWòé¸±qÜÚõ0aïYÏz’ûE/db·Í‹;e_‘}ÚªŠnŠ’7‘ùÇVŒƒ*ú_²i¼2j:î™„„<¶Lf-¶dPÿ§Š¡÷ 0	ºûÅf°ˆ\\un–”l¤ñ)Ý9Ú*ïÌC¤Á7ê¦Œõe3Ã÷bøTDFÀOì×IÂÜ\'	Rý7}d¯/ù~@Õ¤_gÈrÊ4kÇ‹"œº¤óAê3=:©]',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:30:03+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.050377s] [åžåçŽ‡ï¼š19.85req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003669s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '438',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'eàŸ_Èix¡¾o$_Ú¿†¤÷Ø*(‰…#ðîÑ9¸¸ý(0X®}ñ¨ô"´ôÒuÏpÈW“Ü_Ûœõrr7PL3©˜ð»¬•Èï(?]Fæea]œˆ™\\|Ô4²ï×Tì°"7oº†¤è©' => '',
+  'm³ÛÛÄ¿w§“' => '',
+  'fš(÷ä' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:30:14+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.039876s] [åžåçŽ‡ï¼š25.08req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002974s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '430',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '™aó' . "\0" . '' . "\0" . '' . "\0" . 'ùÇEŠé>ä Øf‚“\\Çs!"MBÇ„ÄœÁ˜oåyˆÿ­’ à¤$5 -û1T¡‚(SÚ—d:qúÒçü²øó$¢Ü“,$HëÞÎ]¶8m;’†ceCÜgÁ¹Ÿ©¶£ m*ËÙµ„Ô
+".\\âÃØ|#ôK	ªÔ~v‹J_{/)b]øx†œÐ{ø_†Å9"¹V|ÛÉ(kOm÷*Ú¨LIÐËäÀf	ìú5gî†ˆéaE=À¥¡]îüú¼Ûò0\\c±"ët¿àk}Ë•Õ¾¾,«¾œ=Qb.Ç.?}HP0·µ%”’3AÚÚUwþ`’Øè%Së¤' . "\0" . 'AeØzãÓŠF%önÂv!O§ q<-Ä2jW2v›å±s››?•xá³Å€£/ï€ßöh p"µY‚/NÏÜÄ®ñ\\wÈìÒ¿5îÅ@îÖ=àÉ§‰ž:`ÿþæŽL8',
+  'æ¦úÐÐ´' => 'þáŸ÷sÐ.$tÛëâ“[—t“ûçƒ6žè]ñåQe»Ðe',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:30:21+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.034285s] [åžåçŽ‡ï¼š29.17req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.12kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002656s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '454',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '/–»O¡ÁK¦û¡ßÅIªÓÂ÷ÂšHáŽ©s>;Ù†àó#ÚmçNš¦w;q_ÀCùÙ—¬,ÈG“rs?#é_p4^ÉŸ‡T§a’^éâ¾I<-µ*Îºm7¿Ÿ÷‹ÃÓÿŸÂeLðh¾B_²¡úÏÆ~íC¥­3@hÚD£G]Ð­à#ÐÓdÐ9âft¢Ãf¸¾ÚiVçœye\\®e#>OÛ_}JçóÛW@sùl{ðˆ˜sŠæ¹Ä¿8"Ä²NÇ×™ùšNLY’ë\\!Ft;w($ÜWÂT“C•‚ŠÛ»ŒCø>«ùGÄw7ñòÒCñÌ…/¼YSòq’Uå‘¬â;¢È	ËÚS(z¾|¹™‹GBçåx¨°
+ì’½§Ìð\'__Ð' => '\\ŸD“½§ Í>êEñ‹Ôvjè|¹Bô€û:9.5í[ÌÓèd±“•4)¬Hn*’VÄÓüÊxž¬a²È»u{Q÷3ýøÃ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:30:27+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.035240s] [åžåçŽ‡ï¼š28.38req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002831s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '462',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'Gº´M›ãó!Gº)E
+›\'`ÚP‘¼Ahºª…Š±FJÚK˜ŸšÇšà©ä´£KhTÔh#NOB”l',
+  '¸Ìbhs§é÷1I”NÇÎ9—¼ØQõ\\¶éa¹%áE³âù49\'•{9mÜf|ÀÒM¤ãr“É$Î–ép-ò¯~e×Îð†ÑÇè>£„ÃZ† NürÀ#S…†²‰|_L‘_dŸ7u$ÄGà0I\'†*iB€`ÃÄv6ç™náÕúµùÎ´_QS—U¨ê‘1¬™pXŒé' => '# ¯õ1,×TËF÷yüTW·PNJŒÞ„éƒb‚YyCÇUýe8ú(qœ\'A@’œÆêAÊûæ:0?©¦…-†–)t†\\Õ@Øy$ d£¹–
+ÓÆ;¤L©˜Rî÷s‰È»YW§žó',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:30:43+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.062015s] [åžåçŽ‡ï¼š16.13req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003831s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '462',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '¨¡QREIñ0‡V{ïU‘Æ‹ñsI÷…-E;iþçÐÌã½‘c˜^7T‹n8e‰rXp‹}i~‹4}%vFKÿDBÆI5­kÚßÛƒy_Á§e5ºr¡ßöá‚Aã‰g÷"ªåÝˆä¾÷µÁ!ŠÑ<p1éýøÂ@­€tãÂ]ú3…Í!	üÙ' => 'Ø%NÍ™Ù_ªìÑc·Êûšl"!1*¢‰š„Ã×B4ìôë$äu¨ÖkÉ˜<áÓ,Ql´ëÍxÅù·0q[XSDx¡”y!™m¼¸R(GûŽ»F€>>A.¢o©÷,Y¥©Å«â!Ÿ8£òõ:Å•Š=Mzœ?Ò=Ò=t€…œ· -X',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:31:33+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.039345s] [åžåçŽ‡ï¼š25.42req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003410s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '566',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'm¸¢mäH²ÓŠZ*öÀØ’Ëhá;ºhFÛñº UUóéNV²|WgIQ6,†ÌCÆö' . "\0" . '³¶_å³m€-
+Lt~¹§"ÐÌCç‹øtõ._¾°jC,•‘bŽ{Î0ýu%9¤Ðþ·üC?(Ø[· v­Ê¾°HZIF’Êš6ÒEËÉÚÕ¿§’z"$ê”É½·ãîÇQ… <"‚Å1½‰ÇbpNøð}ü±5\\±HáhEÑ¢î˜ü2Ûê^HÖ1B@),ñ›Óõøì­]¹“¹¾Qå›ö/ñZÓÄYkÅ€sO
+nc^ÿ«[ZÇi×E…ãoß›M€âý1ïw1öÑ/Ñ;NÙð®cÐZåª.ñ',
+  '\\ù£ "\'Cn­“ž
+!`¶cû“mgY\'b„Ø±P†' => '',
+  'W5‚Û‘VÉAm˜”¹¦ö¤a
+F:—Kñ£åMç»DºI]›-n»B]æNûÆ]Ý±Dö}­Á
+÷' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:32:37+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.059359s] [åžåçŽ‡ï¼š16.85req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.87kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004348s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '422',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ÝB«ÓO‰b…Á
+IEe ÚÑFéD',
+  'Îõ™4édëerÃÞÏL(ÿ©WO(ý¾Û_(_‘¹š™Y_hµ' => '',
+  '9Ú®w@‰†@ÍöæQÐPPâ!Ëþ\'úé†R|"ÄW4šÐŒk
+N•?êÉ™®“0˜õº-¬Ž²±èÀ' => '',
+  '¥ÕPZP½¾ù±DÆpŽó%§˜§_ÏÀ' => 'w²ô‡¼E_w:oæ×re®óAýu2“ïñÆðÕkýË¥3Ý®50÷E¸Ä“cÂþ£ò>ýç,?ŽXŸ–°Æ;WR¢…TyÎ–òJBÊÕ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:33:00+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047086s] [åžåçŽ‡ï¼š21.24req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003798s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '798',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '\\t’ÇùÕ³—Î
+ÈóipdÀÅ‘6jdBc6içqf:$çÖò)¡ž^Lûð”QøÍf*‚…Û…áFPê“Ûôã°| ùãbÎ>	ödïÔ›ÿÇ£XjXAE#†–â\\G™\\d¦Âí$f:žFjÁf6h×ØÔ<Ø}ÎâÊû£ÔijkW6iÀ)èû‹*6½¹o@{¥4–ç,¬½©ñÈu6(ª½UÎ³ë93ßíXMŽsÐœŽÍÒ©Gœ?<šÅ
+†1Éx{·MlÄåT£"*H9ÿø¢_2ô.ß’' => 'Áv…\\8qý2öhâc¤1‚ßÁz¦@,XÆœ­8J•Áó4â,Ç
+‡*B¤á/ïUšTòNéùB°',
+  'Qù¹›“)×±û$<‘UV3' => 
+  array (
+    'ä£„gyÎiÑþ×©T' => '',
+  ),
+  ')ñË,jë–’Õ"˜zØ¡::(jâ¥ø¿mØ¢5œíƒâ¢Þü3Q´CIf`±\\4ªh#Ê¨ŸSdœO~yyú\'n¡%svIÂõÆø{×eL F«µ@ZL*¥bvÂC¸ãké¤ûSç	•£"žHÅp¤‚Îõ7_¡_ŽOPµëQ"ÅƒíT‚ÍÏÁ9M÷tJHµOöÿ4ôm£‰ëfðkŸñ©$¦öì{oÅÜ\'ËgŸ”7š«…' => ';¨ÍNRiÝà)¾q<÷e»?†”N¿«mw¤wGÊ	ê/ÎìòŠæÖò<>ûaþŠAbýßßeµÕô—oj¥G',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:33:53+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.053723s] [åžåçŽ‡ï¼š18.61req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003249s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '494',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '÷ške¥²¨m$-¹IVôØâ½Â_·çWè¯²šÈÚ»rÃ¹bí2}ð¦”d6EGã2®(vç' => '',
+  'Lj‚_Ãäü«é$æ5Ý!“‡gæÀßÅîäÏá«À3•I{wºª”ÂGù‡ëÀÒR_»ã!ßEy0š3ôÌE_ôi`“§#7<Em?½f' => '',
+  '®¶ªÄó­± !X(óÌFf9ó' => '',
+  'ð÷#ù‡]áL]£·•;¸_@ÞzwñöÿIŒ†Åâ  Ë6™m%ð@Ry]tV2ƒÐå±„¦¼·«ø*zùæ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:33:53+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.072909s] [åžåçŽ‡ï¼š13.72req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004481s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '534',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'f<7…žOjjþËZÔB–ÁüãP_„)S]J7®›•×f|mžR>¶_K£nðÛ‹•·GôÚˆ)»' => '<ãåÖ`(‘‰@Ôzû“uóÊÏ=6 ÂWÁÃ¹€ä%qÔï' . "\0" . 'ûW*h*ÈT ÐfÐŽCË²ò(òt¦8®9ƒ9áÂýzV•KÏÑÖüfØwê]°8Ó\'„kxVÁjÓ`÷8‚j ô×r›•Z°ÿ7' . "\0" . 'hêP4kH‘ÆîÎßÕ¸`XJùS!Hg‹€5HZ¶$ÿ^t:åMýI£‡¥F—±reÙ­»óIÖ¡3üm™ÚD³ ¼ºÐy¡‰ê_ªµòEÃÏâ>°E¥îtæ•ÈûÒò¥ª$ç?±Ð£`Å²…ˆµE{žôõ‘ÞÏ(p­þŸ‘æ~qœ»uŸwàxx¡ók6¶	J°Y1.6~25Ýr©¥Ø)ªd‹H ÉI¿Ó‰nÆ…–‡ùM|Â²X„$Î…È õEöƒÝxwLË©$ãõW¨÷~(ü6õt',
+  'p' => '',
+  'k(h' => '',
+  'ïÇõS×©I`¦´ÐXx×å}<)Ó¸n¥\'Û—' => '',
+  'EÞ?ëý>Ì–|âwí‹b€#Õ3µùÐ{Ï¢ì0¹¼cþŽüvlï¼€5tÁ<‘À$' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:33:57+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.053981s] [åžåçŽ‡ï¼š18.53req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004349s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '438',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'n÷—î¡DÎˆ=7',
+  '§rÒÿY¿ð¬þ>~‚"õ‚õ6ð*$¹Ë0—ü0x­·jLÉ%¹ÄDñ' => '%=ÿžo– Pf¥K' . "\0" . 'ûÞýý™Û¹/	ëÙ^àgYyî6j‹“~ˆÕF< õ¥Ûªýç-h)ÚxPÙ—‰¸ÓBGá±ˆÜ"¸8âÐ‚ 0YÊý`‘G¸H w8òË<9Þ‡C#7 5•ÊzÜ
+`‘aHOÌ>L5B~ËØ,»õ„ûáTåw×ƒ·B’}hÂGÈƒš‘;1Êšøù[§Puß‰½ˆå~Ç“»Æd9¨½ôI¦"Ën§–šn…"a© kžu°ê¾B3¿»Ôd-òÂD¥ww_M;yÒÍ]	`˜æŸ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:34:16+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.044489s] [åžåçŽ‡ï¼š22.48req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002878s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '790',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '
+àÛâú#Ó_zgÒWcÊâ2¹Â¢”b/#7j»—³(ÌàBÈÚ%yBí)ý
+ˆÉŒ	¼P£¡Qå$§_lyH‘' => 'W',
+  '%úl*ƒ' => '',
+  '¯EÌ§ëÅÏuÛ_ïðo€>‘ót\\œÏ%' => '',
+  'WþCágH>@›òúüûséK>®¹ $­o	à‡%UóÖHkŽƒÇ£f<Ú\\' => '',
+  'âñ¾z¼?õ„' => 'Š,(@u*ª×htqê±_pß *Sd¬°ž
+T*	qeöÍâ',
+  'N_ðéüú' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:35:14+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.045888s] [åžåçŽ‡ï¼š21.79req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003696s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '790',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ÝUÌ¿–ý6N»%È<',
+  'TpfÓppë*¨ª´ÑšÙÏx:-Åi_#æÀzkÂ·ÊâÄð7I-Í,$Ggr‡Œ´8Û7­ÞM†žŠg•Œ"9”~\\#Ê_?Ðd_g?À{Žˆ' => 'mâVVád€hÉÜuç»ýYZžºFÓWð5·“Åëÿ¯ëF>I‡p9ÉB˜‹Qô E5c]ø°×]ç­“X”ôV{jº¿-™¨[Ë¼ÈO£ìðTv½8¤ ¯3Ú?è«ôK‰X«}¹áê ³n4sÛ½îx.oW)HwhÂ0b¹x‰¹æ)½½*Ý€´³nmÑ·Ö­æ#áj‰#5Ë÷X¡¼àmL#U"Q¥¢@À£Tù>Í©ÈÛ{­äÌF•!ýpUH­ýä’ÕCN—Mí².¦¾o^5{q“Â|È]H•Rå-†Újš:élmVÑØN«$i2ˆ' . "\0" . '=æ:3' . "\0" . 'ò^^ö80ödàÇúÜHªsfJ•Ôe*,’j*)5±3²=F;D6‚CôfnÓ)ötC1Væa©âo8.!ÿý°Î„1\\D=z¡ÅŠ2¢7oHˆèë#ÞïxÅríµd¼¹Ã!s¥·',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:38:10+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058453s] [åžåçŽ‡ï¼š17.11req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.05kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003559s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '790',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'Š§26¤Ú16óŸcUÕs°kÊ\\ÉÚÑÎŠlöÇ:õa›Ö¹yCéƒ÷Ìà<dáèÒT;œv¯Í<á«G§ÿ5CˆÜ	¢±’Ïaš%l%Û"×a^7È-Íñ‰½õÆcËŽTõÍŸ‡Â)G»5~À‘KYfioëH°?‚’nþýªµÙ:Å*ù¤ì§BO˜ÊO×û¸bÄ\'áÛXÖ‚³)<“(Ãôê¯£s$Æ!_)Wpß›@öi©‘8þøÈÞüEªæ°Ì"I³9cLBó-\'åúhöÈò‹1G^Ž³³3‹p!²U¸(3%Ò“Þ±‹Aüo1DØYnã¢ïø­ƒ° hÃx©J3\\i™-ˆSOt³¦ ÉÜ ²¨ªx‘ð",ÌD' . "\0" . '#±¸¯Ž"ôÞÅfb×ŒOnˆ)”…pÓ>bdKd‹0´a6:éè†É	¾f°V…:' . "\0" . '¿K‹óèp‡<ý¨²züPa£Á×ƒ4²ÃQƒµS	B¿ºŽÞß‰mÉ	çkfœÜr¾Î4ï4Í¿Cú¦HÜ×[*{br¿i°¨6lèmWûîÃc¥z›Óº',
+  'ëF' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:38:16+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.044739s] [åžåçŽ‡ï¼š22.35req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003515s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '®a_¢÷ŒR¿§öêé9š¼Þöåó‹™8ƒ6' => 'gš‹:uS¡."dDHó–?ŽÔPx\'÷ùä~ÆWzÿå¡ç7îŸY­M/½:",õœýýö¤3›°g;¢3I‘üg•º=ïÂÚÉîa$£œŒ@|¢0"a[Æ•ÜœDhVü)é‘ÎÝ 4ŸÀßu–›bîR?›>T™„\\¢ê·CåûEGjiµqQC‡¹°(¨œc å.ì§Q~‰ªã›»æt|E¯•;yµë¢KÈ' . "\0" . '½m^ú‚vžw‡íÕšg÷büÇÀÏÖÝ³>E"À ©”É¨VîÏ]K,×æ7!*@§ *¶.Í¡žczú•™MÙŸã`åÏ»¢Åÿb¶Hg<ô$Ê±ç<|†fÅØ4Œ±¿hÌïJú>õâ°',
+  '‘wªå4Ò-²AÆáã¾43|èSoSD_Â?.–N!¬<>­ÙÊÝIßæâx8w£
+æ¥Ò›RGäïÍÖ9d´sYµ"0o3þâ;ñÓgG_Ü¨E£ /ŽXKÏÛMóÔ¨^¾¯™rûrÓ,|öD4€K´Yt‚"©ËÆb' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:06+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.067081s] [åžåçŽ‡ï¼š14.91req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.18kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.019861s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '470',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'äU5áæ-Ÿï;™!šë`¸ä;`6á‰ôÃÀÈŸž€J ³¦1¸f“$T_ùÓ¹øç¡²˜æ¼ë¢½eÏÍ>\'_¤¿¸¯fêþ­' . "\0" . ' ®¢`\'CÔö˜W"»Õ{wÍÂà{Çì$	çP?Õ»˜	â¾cÂÌ”Ì£"nŽ/o±íŒ­,«µ`U=	¶¡£/±š˜6‘>‘¦f=}',
+  'ùmgÂ¡Ø¶o"k(¥ìdÐ_é/`' => 'ê)eZsß™JMÆ½ßæ/¦Ñóôyai¯¶ÜBfL’^îàÏØGxüYeŒˆ¶.µb',
+  'º±r÷UH¾Êb±cÒòYÕ\\·‡p¿˜ÁrÈùG»Ô‘ô^¿gQ·O*_,Ñp«"ÀùØAçÐÈêÈò¤¥f™Í¬øÓyaÍDzŠžŠ³ÌH¬©Ö†b´:ú.ê¤­¡£ñ¤Ó¯ì}×˜ãu9zÚRƒQÛgÖô˜îÔ' => '¨¶–Ò»¢Š',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:06+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.053217s] [åžåçŽ‡ï¼š18.79req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004850s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '558',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'OÏ–ïª¼' . "\0" . '' . "\0" . '' . "\0" . '"²4,r›†ZwÆ^Þ¼œQƒÇ“ã5‡gùˆîž·WÅ†øPšæn‚M ‡\'²¯‹½ˆÆKë?É˜~gŸ{]±èûñ(9t‘üwv=ˆQ*T˜|Æþ‹v‘µ õŸvˆû@²«Ñ´—(Ó,‰ÿÁ¿ ð_~aûqk¦­œ0Åx“Ëívgƒ ?Â…I:öë×	~j‰Boc—|MÔ¦R>À÷ÔÜ# nÑIY9KÌ´›…Mµ#*ÂHôà»~œŽªoÝël–ÔêyUPhjÔvÍ<FxþP½Ù¿96¨D–Í²S:Fp5Ëâƒyésm1ï©YÝ\\¯øÇ¿vÆµ÷õ-ÊHáGšUt\\±rïJ¬_þäkÐZË¾BN’¶!ïõæVE10žE5Gç7zB…QÙáúl­A§Ã@',
+  'r )c¹î‹°öÆ1¸TÂFLW‡Fu7Vž#<Ažü°b‘P÷,¶_U´¨€_æóe”oÄýA8DƒØ,P…n^' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:14+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047791s] [åžåçŽ‡ï¼š20.92req/s] [å†…å­˜æ¶ˆè€—ï¼š1,971.95kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003080s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '486',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:15+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.051250s] [åžåçŽ‡ï¼š19.51req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005331s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '526',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'fàpW™_á%' => '',
+  'È' => '',
+  'þžÖ®ü#Í¼tž{¼(Áév:‡€–DÔ>Û®*Ã‚‡¦ÇkëI' => '',
+  '«äœX®¹°vGåRü‹gÈ%;’¦Æ{’yÏrñâs·ƒt—8Ãl…çº`ÀÉª­/³²4ðz©˜ÏC3è®WÐå¢b»ßó{C³ËXËjóÅÙQe>këæöqäÝäàësåž2p‰V¦	˜Vª¬' => '7Ñ',
+  'wx0I{DJò6§(ÝÏ#ÛãNºywZ4µÞÀ]ŒdÓêRwÍ' => '™éˆÝqžzFoHr¢Šùjlé‚ÖuÆžD‘~­öÈ~À•òÁ',
+  'ÔFèoÉæÑð2þÍŒ/¦j' => 'úAíŸ<zÅ©j_~WÐ`¥WôyO¯1@uá§=
+P›—×^ÌqæˆmÏ(– LÇ”Tû…bLvs¿ÔÊ—õ#° ý–7ˆ	ñFti`vØÈ)Mn‰Ù‹SÀ˜
+t®æ¸Âãµ4—æ	´Û}\\³l-ýâ`zÅì\'cŠ7©',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:26+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.048946s] [åžåçŽ‡ï¼š20.43req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.99kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002773s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '478',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'dJ²»>`ÀþÕŒ³‚Ý«üá¿ÊZ³WÚ%{DÖ­ßWoOºÃÎ—l?$×Cø	Ž\\ÂM*ôƒ 8¿É*î:bYªåE' . "\0" . 'Ô' . "\0" . 'Sƒáò”l“ù€!àucŽÏõXª“(cU¸{m#ô™ô"‡SÅkö¬³u!9Še‚ÐÞ¥û\'KZ(UÛc¶8}ßÖd§Åi/¡ËÕâPSÌ¶qÿ2¨ˆ	Šö†vß€yª' . "\0" . 'Ke˜Ëô;ô»!™*T9ì½š³â‘µðéç…ÏþÉFŸP¬4é‰w´¸¢š÷àˆ€è~¢©ã%R[',
+  ',ÁbŽ¿y°%_¯É¾ÇvA‰æø»ÕSÇÏwFiºÂu§|?Z‡S' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:26+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047900s] [åžåçŽ‡ï¼š20.88req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002459s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '510',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'æ°Xóìpr¦Žž«‰k{•Qâ/ÉOv,ô-‚Ÿ½€]' => '',
+  '”ÝôJóíè\'i·Èu—1¤ÎøàåþbL¼»ujc¸¨üÜW|ÍeC@„†¡Ê´„èLó#NüðÛa÷2UïZ­â¬A1q›a’:v÷°éºÁVÇØÑÇ—1Éä±XYH%é€¬íÇŠ½›àê' => 'ˆ}‰‘Q¶´”MÔû7ASXÔüjIÿ5nÚt|‰m2Aéx·­ÃxÊm’Bu®Uâã^ò’W.‘2ìîÄ¦Ü˜}õ%ü%\'ÚþhšR8bgÚxÉŽ(¦r6ñþD! 
+qLI–§(7Rx´Õe	nÂçŠŽ,Ã«Z’B:DMZ@ô´õ-é5âEŠlI†¦Ä#:«3³n¦ž:mê)‡ó>`»54lŽÉ{Óhz\\úWº-#Éÿ¦Qã2x˜±ÛÆOH"^´–¿¯Úú; ZO•@ªXg0IúÊÉø÷Ü¶pRcðý¥«¹‰®”y¼)ð¸æª¦JßÊDD“ð»èqZ/»: Ó‚ó‰ŒÒÀõÁ7¤…#€­#`qûEM%øCð¾-¥¬Íè¤c–eÀ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:39:40+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.034914s] [åžåçŽ‡ï¼š28.64req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002528s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '750',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  '¯Í' => 'SaÀËé\'8kÊ¯Ér®ÇLí$‚~7]¯H5õËÕÃù?ÍÙsÂöyá}³yc\\/°ÕÓÑÔjˆ™†§sÄCþ¾`k{¹^OlÉiœ!w<ŠË?¨´˜i½ßÍœ!4áxÂ=YÌÎÂ9Ï…ÜÊ2\\ò˜wD6.ž®,oˆ}ë¾tOºe^ËsèÙšC"	ˆØ`¥äôp 1yuQQÓë*Í;:£*Bþ¡É]ž0Ô2óè³ñnþ‚^Éè5£*%k©¾PZ4 rÍfÃÎà~>PŸa7/_µùøñÝ„©±' . "\0" . 'òŸûI_Ž·@¬Ž¢5^žÑpÍ¶ŒçÊT÷eA_%eÓâ…(äáÙ:–{¾k^',
+  'Ä²OJHjò-ïi)TÖ>½a4äïÏjy€?ñ}Àòù¢`_„Ãu™Q¼¦0a-_ZB£••­ôHÿž³AÁ' => 'ÈuÿÁÓ¡øÇÃ¶d4æ°ÓØô4O à„i¾B#Ð®rJ¨¢ éòÙyÏ™,14x(üZÅ…A?ÄËr£±ÑªY(D.CQòÏËŒ‘s4Õ Aò†YKÁÞš¤B›œ!Œó?ý0•bxL°æ‡Ÿ„/©s@ý©ÚYó’VàÍàÚãOðE¢‰c]' . "\0" . '0~O©l«yþUh±üª å¢¨r@]Ùæ-ŠgX–	Lq{É¦ß©Æ›ÚXÃa”ž?•’â$Áœ%S”(wXÁó²ôRÐ’ú4}d_' . "\0" . 'l\\ÖXÝ³ÂŸeXL¡­½9âÊD4£)r[Lª¸\\Šm°¬D',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:40:56+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.037354s] [åžåçŽ‡ï¼š26.77req/s] [å†…å­˜æ¶ˆè€—ï¼š1,974.30kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002751s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '750',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'C.Z¯·—G€]inhËÓ_ø™?‚œ¤<[Ç|§¢Í†‘@BG\'®ö¬ŒÀqb@ „´±¨«²=\\¿_9‹~v$Q\'¿²lËÉx¡ô—ÄMÄ™EÀBç‘LâdÉ3×,ß£®f?Î\'¶Ïpbý×Ü± (;®bYbV ÁÍWÖ{^p>@˜«	öÎ…kÀ)ñÆ,ÕÅãc5höõÛ>î—Îˆ!: ¸~¶¬¿pç­%¢	š|½%n´±õÞÅbJL(`Ð¤væŠ…šOFWë4S˜Ç–mÂg[Þß¤»hñh]Þðµc\\÷­žÛ Ù=×8NðË™À‚IÆ9Sˆ7ð¤C²kËâ²·§­¼ë#ŒÙ¼˜èÒƒ%žB2Ì~ªjh/"ušê‡®g!²PmÇßi-Ñöôñ»¹§@
+‡™\'K¦“Š=íÉçß€UsZ¶Ùàé2§#‡J)Íåž(‰uÍ~ZâK5}Ä0ó”7dðÆç…öß¨aÙÇñåš{=iHÆš2FâAIÐ¹jö¶x#{ëÏÇ<UæB¶EË9¼lað¥O5/' . "\0" . 'Ê$ˆÊùŠ1¹vá9–¸©71ö bPY=k§ª	°Ë‰ú' . "\0" . '»Uwè6í»˜•pÜ8ÑÞ»c/õæG.z_;„ôÃ
+tpI' . "\0" . '"«èþàô¶}',
+  '©3èçPÈZñD¸¨²X?eB' => 'Ý?÷uWøß(Œ£næ:E!£Ép¾ðOdC¥QETž?…‚/A-ˆ½ÌM:ÏÀ[ÿÐÓ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:40:59+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.048428s] [åžåçŽ‡ï¼š20.65req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003956s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '478',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'ìj€å`Š_}·^ú(L(Syi/@@Æ­¢uü7ÿ³³ñ¥Ë_€`¾ê´"¯IJ{¬?ú_,PÕm•_ÞˆD†ß_ÌŽÏÿ±l0à‰V^ê©þÇõWEKöaÜŠ
+P‚¢yªßE®jLrË«ÛUƒ½Ôw' => '',
+  'PÞóasÓ½	_é‰wÅû¨ÅŽtëÎÞ5Ã¼2_Öôê“¶½ß§)„8ü)¤º!t%õÚ‘Û4b	Ò?LV ^:r¸$<ll\\×î!Ž¢úKàñ}ª™ÆGCdôÛ®òãÛñSÎ¶2Î{"H\'þi•ßÂ	' => '',
+  '®c_qüÚ“Go€Bß‡' => 'žý†ÙÑê¯Æ
+ÀkÙ¬ue¹éZ0$,™u@ãQ ”|U«wÂÃàŒão ¯uH‹H‹l8ƒ­\\’‚F~ª‚°!cè¥rà±Ù¾l)Lcšwð‰åÇû°ÊH³ç7z‰e@@ÁÎGè»ËÆVÂONsžÔIßaHÍÚáè9["ê³×ºöW¸OPœ•‰WNk\\0 ÙHé)Ì…*Ò•ŸòÇ{àRo',
+  'Nªó¦à¡j¬b‰œôOþÃ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:41:00+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.052935s] [åžåçŽ‡ï¼š18.89req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003850s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '510',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '¶…WF å¾P¯ÊÀab´Èe
+Uwãê:	,æpäî×ÍP¤øv>1-’IQ2aÙÔ“€[AÃ»±×¹‹
+ß¼ê3\\é’€gN ñat{c~8ßœ5zÁœø{¢qW$Ê/³Ä#ÿ§V‘KÕ]GQ47è „ámbÈ³j.°üºteyÞ=$co,>Ñû$Ñ¯íßÿ3î6Ï6¤IÔÔ¢=plþ¯7|G:\'Íì¸¾ÿºpºžçŒÔ9óþ¶N sÛú°à§	¾\\Ùõ›Kƒ’†á|§¦ö ]z†S\\;<Ffa%¡@–Y°kýgQG¿ÑY¡Ý`õûBS–1¼Uÿ¹}.VÀ}1UÀl`Û¹(£!7ú~šZÄñ¿Ôñ ÝSã‹yœZ¬µP%·µ«²s„©û<>¯2åiî‚%»CÍ3nu~Úù.rw"³µ¤3Š]å‡Wð9wª…
+dKFi6_åú©ÀÄÜDz¼,3ÊtQ9h÷  ;=yê*:qÎð‰êG¦"ÚÉ¥\\ "K]­|áL«i®p„ïpdE¥hd6<i@°ÂŒQûðÜío½ˆÄPmmó^ôgÞ' . "\0" . '·>	Iÿë’„Æo>¦W;w',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:41:09+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.058184s] [åžåçŽ‡ï¼š17.19req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.18kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003909s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '558',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ô„ƒ
+0JÕ\\³h	<6üÜ8Wù%$5êÁš3è½,O¦ùÕ²ªI.L]ªØ´aþÎgþßÎC›ÝræìÈü"¼óÇƒ›ÆÁªá ”šFUƒBØwwÃyz¸â)J-F{JAGhüAáIQ>ª`Ä#HHøajLü[Ž®ÙŸÛ: Á Q½ÏÇÈûõñ!š³ ÅÙ¹SÃIÝ†—Â¦:8›
+µÝ{µÒ[Zý2X®çÛíÝ´õÂËÚé-nÈŒ?9¶' . "\0" . 'œ,%Ü¢8Â‘Zá:^wdë[L•EzfÂ7)69P•qß<ìùÉ{	¦ÇPªÖØBè)§0ª{6 ãfÃÙ' . "\0" . '^w¹s-ï‘ún/Æ/NRÌw“7¢F-w<×Ú<N…Ÿ0Ö…’æ 0×oÑ0B',
+  '(o>¦W;w' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:42:22+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.049024s] [åžåçŽ‡ï¼š20.40req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.93kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003887s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '566',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '$8¸ñ»ìhR÷Y^Òü‰$±a ÈÏ“' . "\0" . 'üÇ	7“í|Ë¤ï?¤S
+‡Q“8P••°ãCLQWúðå½¦g‘ag=ªð4%UÄ¶Š»Gf­¦¬Ä¢À›!Áí;«âÝ' . "\0" . 's´È…_òŒj1yv*[PxÀ©"™gT…·S£½£Š©ïŠþTEH,ÛC æÀE3ñÉE€Ã £@RumLÜ}ms;™¹òêc“hì\'¾Ñ ^¹)^»Øb|Ï”;({.ü¤Üƒö?~3áÄ†ÆHE˜.kãÍ²{w‰­—ÎØ±ÅÍãäµeó›p.w|—´ÁúºÖ!é?©2µîtþ"5ý?O@paØ:ìêøãª:’åT¡#eO”¼‡ò˜‘·¾\'tã—š“¯«üÁ,@I£y­óÄñö*.NªÞ3ÇN¸·ló©ÝÛÿÒ«‹ÄŸƒHZ§‰D_oÂUâØë—›•Öâ%A[AÝÅ½ð-÷ØR´ÑñþƒhÀ¸dÇÑPëŒTÛ´™ž}}ôà¤ yÐ¾)‰žô]°ÿ/»$à*6FæfhB|Ú>	GÓ÷^-Ó' . "\0" . '¹‚,a¶' . "\0" . 'z˜¶S9E›—ß“ÒŠWîuk1±Œ00³ŒSQ½Gð3Ÿuù¨õ‚2Wõ½qÍTü	û¾ïÅÖRL¬ïI\'xƒ*
+Ý®dö¡µÿ}g@Äá*¼',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:42:58+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.047434s] [åžåçŽ‡ï¼š21.08req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.49kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003619s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '€t›÷ÉFLèÛð";ã9³«Ð‰½V#-û;î,^IF"¦Ém…ðENÈü°Ö0tá¤,Úy3¡™®ÐB·24bR«NV’oƒÓ¾P …ÖU`I=L6Ñ‹C6ˆ–ëÅô9	 ÀÎ£‚‚§1ÚÈ^' . "\0" . '5üxj‚ÏË%',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:43:00+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.057533s] [åžåçŽ‡ï¼š17.38req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.80kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003994s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '430',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'àZæäÀ ' . "\0" . 'dèÞÆ±
+<ðßt‡6Ä½',
+  'Ý–öá³' => '5µ›H¼8ÑÒðLWÚ|ôOg
+³žÒ¬ùÀ«¾œ»”\'³T\\6[Bâˆ*°×AnA°šz‹Z3A¥',
+  'ª„Æãmç÷qÏ¸á£§nÅ¼§pWZtÅå~^òbdôÒ7‘ðºÐ®ÄôÉiÁóéy€Äë_lcïÍÑ˜0ks2üt™¼*èXãc÷ª¤a¥—' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:43:02+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.067207s] [åžåçŽ‡ï¼š14.88req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.49kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000125s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004259s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '542',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'õ3§ "nª³—þýÎi‹ÀÛ' => '',
+  '·‡I}Îˆç¹Þüh½Ã]Oèaèß%LwÖÁ;nf¸Ï}ØÆ/„±–½7Þ^Ç`¡g_ì¸¦)«Y-b7¦ý_uNFâ!wtXÃˆaš{*,Dsx“5‰ÍðÚàïÂˆúuÄ5ùG„£¯é¼ˆ' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:43:05+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.035107s] [åžåçŽ‡ï¼š28.48req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.49kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002358s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '518',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'hÓ‡OÌŒy¸F¬ˆ9FÏ„ª–YÙÄq‹5y¡7‚)ñ>„®Y™¡ª:EíLçï¦
+j_{4‘:¹ÚÂL^>ž±{H`¡mÅF·`´²<Tnï¸úH®b‡Ž•˜Ê¹iÛŠ¸9t„_‹µiÑ‰ágj˜Ã¾"?²Õ>©' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:43:10+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.045029s] [åžåçŽ‡ï¼š22.21req/s] [å†…å­˜æ¶ˆè€—ï¼š1,972.99kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003267s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '446',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => '',
+  'r)ÍR"Ðl˜­ÃÎƒ˜¬×\'tq#–e¸½w¶úäOãi’ÔÊ]žÆ­2†ÇSúlÓÞªÔ›ë™#ºåÞ1™<2,üð|µûãl¢ÚôæÐ¯¤ÿ½ø`1ãŸ¡ÕhY·œÛ¡òHŠtO_™æ!bëO ÿË†ý«hZ¤' => '%p½íþ¾½ûjN”ÑƒñžÏÎÚpø÷¿£ÅYÑ7p¹ßaŸ…Má[ù†Ñ•Ûc‚«XW%;R!j9úè}»«ÄÅæK€·v7ÜÔ5Q“9µÂøwbƒôXÁ­ÃÜˆÄ­~Å`ñ¨Ç¥ˆ)’öCe¦Öðÿ\\ý©R…Ò[þBÍF”dU8j³' . "\0" . 'Ãëe¥öÔœ,©RgòñÕØ:qdàÎrBÕ',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-27T23:43:10+08:00 ] 127.0.0.1 POST tip.f.360.cn/pagetip/req=0
+[è¿è¡Œæ—¶é—´ï¼š0.041043s] [åžåçŽ‡ï¼š24.36req/s] [å†…å­˜æ¶ˆè€—ï¼š1,973.68kb] [æ–‡ä»¶åŠ è½½ï¼š108]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002721s ]
+[ info ] [ LANG ] D:\code\unsw\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'pagetip',
+    1 => 'req=0',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 QIHU 360SE',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '478',
+  'connection' => 'keep-alive',
+  'host' => 'tip.f.360.cn',
+)
+[ info ] [ PARAM ] array (
+  '
+' => 'ƒê;l‹áe¼à*62†N	±ƒ¼”ø­Þ)¼a:›7à‰”Ú‘ø~!þW‰×#Öç¼)·ËbßuéÈT\\Š4‚‚ˆ—3Ù€ìø})7‹ÞåCÀ®ƒGèÉb³dtÁŸ8ÃÑmz«zpKáF cF<ðëŠm½H\\_›Ë¬NÇâ n%>¬n³Ç¸º„–MNÔüî{<”JoÇÊRsKû§ftªoË
+ud§A=/Ù0ž RÆÊìåz÷ÅdSzxñ/!*È~ Â  ãG¾Ê>™¦÷†0Ø¥ãÁÉñ|Ññ~ Ò@äžúÌdØbLÕdŽïbÐÍ’¶²·;àU= ü©ëóD¢ôØÃ¨z§k’/Riˆ>Éöæ‚qÈª})ƒîuØ?Ö9ð«ì$¢œ ò"*Û¢edY\\ÀUN@úf1ÅÂ¦Ÿs: Œ¨¼',
+  'W?0n{â>÷SóÄg­R}9±—NLIU' => '',
+  '³ÃÿK¨¨Å—ç1Mzú‡ICT†Aœ‡-°„å@õ#üy”¯HdyÒ$\\_‚/Š]^þÓeq”í½$x¤YM˜t*–Ôœ”´ˆ' => '',
+)
+[ info ] [ LOG ] INIT File

@@ -1,0 +1,52 @@
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Content</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Full Name</td>
+            <td>{$row.full_name}</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>{$row.email}</td>
+        </tr>
+        <tr>
+            <td>Country</td>
+            <td>{$row.country}</td>
+        </tr>
+        <tr>
+            <td>Company</td>
+            <td>{$row.company_name}</td>
+        </tr>
+        <tr>
+            <td>Ip</td>
+            <td>{$row.ip}</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td id="status">
+                {if condition="$row.status eq 0"}
+                    <input type="button" class="btn btn-primary" id="Pass" value="Pass"/>
+                    <input type="button" class="btn btn-default" id="Failed" value="Failed"/>
+                {elseif condition="$row.status eq 1" /}
+                     <span style="color:blue;">Pass</span>
+                {else/}
+                      <span style="color:red;">Failed</span>
+                {/if}
+            </td>
+        </tr>
+    </tbody>
+
+    <input type="hidden" name="id" value="{$row.id}"/>
+</table>
+
+<div class="hide layer-footer">
+    <label class="control-label col-xs-12 col-sm-2"></label>
+    <div class="col-xs-12 col-sm-8">
+        <button type="reset" class="btn btn-primary btn-embossed btn-close" onclick="Layer.closeAll();">{:__('Close')}</button>
+    </div>
+</div>

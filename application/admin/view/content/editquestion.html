@@ -1,0 +1,57 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">Title:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-title" data-rule="required" class="form-control" name="row[title]" type="text" value="{$row.title|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">Language:</label>
+        <div class="col-xs-12 col-sm-8">
+            <label class="radio-inline">
+                <input type="radio" name="row[language]" value="All"> All
+            </label>
+            {foreach name="lans" id="vo"}
+            <label class="radio-inline">
+                <input type="radio" name="row[language]" value="{$vo.name}"> {$vo.name}
+            </label>
+            {/foreach}
+        </div>
+    </div>
+
+    <input type="hidden" name="row[category_id]" value="{$category_id}"/>
+    <input type="hidden" name="row[type]" value="question"/>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">Classify:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select class="form-control" name="row[belong]">
+                <option value="UNSW Sydney FAQs">UNSW Sydney FAQs</option>
+                <option value="UNSW Global FAQs">UNSW Global FAQs</option>
+            </select>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Content')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <textarea id="c-content" class="form-control editor" rows="5" name="row[content]" cols="50">{$row.content|htmlentities}</textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">Publish Time:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-publishtime" class="form-control datetimepicker" data-date-format="DD MM YYYY" data-use-current="true" name="row[publishtime]" type="text" value="{:date('d m Y',$row.publishtime)}"/>
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

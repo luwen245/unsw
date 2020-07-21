@@ -1,0 +1,4 @@
+[ 2020-07-07T13:41:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001558s ]
+[ info ] [ LOG ] INIT File
+[ 2020-07-07T13:41:13+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-07-07T13:41:13+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004591s ]

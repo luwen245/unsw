@@ -1,0 +1,49 @@
+[ 2020-06-29T20:22:04+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001753s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T20:22:04+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T20:22:04+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004584s ]
+[ 2020-06-29T20:22:04+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T20:22:05+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000117s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T20:22:05+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T20:22:05+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004345s ]
+[ 2020-06-29T20:22:05+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T20:22:05+08:00 ][ info ] [ LANG ] D:\code\unsw\application\admin\lang/zh-cn.php
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000113s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004573s ]
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000114s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004154s ]
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T20:22:14+08:00 ][ info ] [ LANG ] D:\code\unsw\application\admin\lang/zh-cn.php
+[ 2020-06-29T22:29:24+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000112s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T22:29:24+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T22:29:24+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004309s ]
+[ 2020-06-29T22:29:24+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000122s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005062s ]
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004332s ]
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T22:29:30+08:00 ][ info ] [ LANG ] D:\code\unsw\application\admin\lang/zh-cn.php
+[ 2020-06-29T22:32:49+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000117s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T22:32:49+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T22:32:49+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004530s ]
+[ 2020-06-29T22:32:49+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T22:32:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+[ 2020-06-29T22:32:50+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-06-29T22:32:50+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004129s ]
+[ 2020-06-29T22:32:50+08:00 ][ info ] [ DB ] INIT mysql
+[ 2020-06-29T22:32:50+08:00 ][ info ] [ LANG ] D:\code\unsw\application\admin\lang/zh-cn.php
