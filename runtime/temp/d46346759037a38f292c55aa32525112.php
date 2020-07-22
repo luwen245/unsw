@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:68:"D:\code\unsw\public/../application/admin\view\content\editbrand.html";i:1594098258;s:55:"D:\code\unsw\application\admin\view\layout\default.html";i:1583049507;s:52:"D:\code\unsw\application\admin\view\common\meta.html";i:1583049507;s:54:"D:\code\unsw\application\admin\view\common\script.html";i:1583049507;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:68:"D:\code\unsw\public/../application/admin\view\content\editbrand.html";i:1595400803;s:55:"D:\code\unsw\application\admin\view\layout\default.html";i:1583049507;s:52:"D:\code\unsw\application\admin\view\common\meta.html";i:1583049507;s:54:"D:\code\unsw\application\admin\view\common\script.html";i:1583049507;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>
@@ -51,7 +51,12 @@
                             <?php endif; ?>
                             <div class="content">
                                 <form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
-
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">Title:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-title" data-rule="required" class="form-control" name="row[title]" type="text" value="<?php echo htmlentities($row['title']); ?>">
+        </div>
+    </div>
     <div class="form-group">
         <label class="control-label col-xs-12 col-sm-2">Language:</label>
         <div class="col-xs-12 col-sm-8">
